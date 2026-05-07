@@ -1,0 +1,6 @@
+# Original specification files — kept locally, not in repo.
+prompt.txt
+prompt - Copy.txt
+
+# Local Claude Code config
+.claude/
