@@ -1,0 +1,318 @@
+================================================================================
+  CLIMATE LAW INTELLIGENCE PORTAL — PAKISTAN
+  Step-by-step deployment guide  (free, permanent URL via Render + Postgres)
+================================================================================
+
+This guide walks you from "code on your laptop" to "https://your-app.onrender.com
+that anyone can open." Total time: ~15 minutes (first time), ~3 minutes thereafter.
+
+The repo is already wired for Render — render.yaml provisions Postgres, build.sh
+runs migrations and ingests the 5,000 cases automatically. You only need to:
+
+   (1) push the code to GitHub
+   (2) click "Deploy" on Render
+
+Two accounts you need (both free):
+   * GitHub          https://github.com/signup
+   * Render          https://render.com/signup    (sign in with GitHub)
+
+
+================================================================================
+PART 0 — PREREQUISITES (one-time)
+================================================================================
+
+  0.1  Confirm Git is installed
+       Open PowerShell and run:
+
+           git --version
+
+       If it prints "git version 2.x.x" → ✅ skip to Part 1.
+       Otherwise install: https://git-scm.com/download/win
+
+  0.2  Confirm Python project still runs (sanity check)
+
+           cd D:\EnvTribunalSimulator\Environment_law_portal
+           python manage.py check
+           python manage.py test cases
+
+       Expected: "0 issues" and "Ran 25 tests ... OK".
+
+  0.3  Set your Git identity (only the first time you ever use Git on this PC)
+
+           git config --global user.name  "Your Name"
+           git config --global user.email "you@example.com"
+
+  0.4  (Windows only) Confirm the .gitattributes file exists at
+       D:\EnvTribunalSimulator\Environment_law_portal\.gitattributes
+
+       This file tells Git how to handle line endings (LF vs CRLF) so you don't
+       see thousands of "LF will be replaced by CRLF" warnings when adding the
+       5,000 case files. It's already in the repo — no action needed unless it
+       got deleted. If it's missing, recreate it from the template at the end
+       of this file (Appendix A).
+
+
+================================================================================
+PART 1 — CREATE THE EMPTY GITHUB REPOSITORY
+================================================================================
+
+  1.1  In your browser, sign in to GitHub: https://github.com
+
+  1.2  Open https://github.com/new
+
+  1.3  Fill the form:
+         * Repository name:   climate-law-portal
+         * Description:       Pakistan climate & environmental case law search
+         * Public  ●          (so Render can read it without extra auth)
+         * Add a README:      ❌ leave UNCHECKED  (your repo already has one)
+         * .gitignore:        ❌ leave None
+         * License:           your choice (MIT is common)
+
+  1.4  Click "Create repository".
+
+  1.5  GitHub now shows a page titled "Quick setup". Note the HTTPS URL — it
+       looks like:
+
+           https://github.com/<your-username>/climate-law-portal.git
+
+       Keep this tab open; you'll paste this URL in step 2.5.
+
+
+================================================================================
+PART 2 — PUSH YOUR LOCAL CODE TO GITHUB
+================================================================================
+
+  Open PowerShell and run these commands one by one (or paste them all at once;
+  PowerShell handles multi-line copy/paste fine).
+
+  2.1  Go to the project folder:
+
+           cd D:\EnvTribunalSimulator\Environment_law_portal
+
+  2.2  Initialise the local Git repository (only needed the first time):
+
+           git init -b main
+
+  2.3  Stage every file the .gitignore allows (db.sqlite3, .env, __pycache__,
+       and staticfiles/ are excluded automatically):
+
+           git add .
+
+       NOTE — what you'll see on Windows:
+       With 5,000 case files, this command takes 5–30 seconds and prints A LOT
+       of output. As long as the .gitattributes file from step 0.4 exists, you
+       should see no warnings — just a silent return to the prompt.
+
+       If you DO see "warning: LF will be replaced by CRLF" lines flying by, do
+       NOT press Ctrl+C — it's working, just slow. Wait for the prompt to come
+       back, then check `git status` shows your files staged. (To silence the
+       warnings for next time, see Appendix A on .gitattributes.)
+
+       If `git add` hangs and refuses to stage anything (no prompt for over a
+       minute), see Part 8 → "git add . won't finish".
+
+  2.4  Create the first commit:
+
+           git commit -m "Initial commit — Climate Law Intelligence Portal"
+
+  2.5  Connect to the GitHub repo from step 1.5 (REPLACE <your-username>):
+
+           git remote add origin https://github.com/<your-username>/climate-law-portal.git
+
+  2.6  Push:
+
+           git push -u origin main
+
+       The first push uploads ~40 MB (the 5,000 .txt cases) — expect 30–90 s on
+       a normal connection.
+
+       If GitHub asks you to authenticate, the easiest path is:
+         * username = your GitHub username
+         * password = a Personal Access Token  (NOT your account password)
+                      Create one at https://github.com/settings/tokens
+                      → "Generate new token (classic)" → check the "repo"
+                      scope → click "Generate" → copy and paste it as the
+                      password.
+
+       After the push, refresh the GitHub repo page — you should see all your
+       files listed there.
+
+
+================================================================================
+PART 3 — CREATE THE RENDER ACCOUNT
+================================================================================
+
+  3.1  Open https://dashboard.render.com
+
+  3.2  Click "Get Started" → "Sign in with GitHub" → authorise Render to read
+       your public repos.
+
+  3.3  Render asks for a credit card on free plans only if you exceed limits;
+       for the free PostgreSQL + free web service used here, no card is needed.
+
+
+================================================================================
+PART 4 — DEPLOY WITH THE BLUEPRINT (the magic step)
+================================================================================
+
+  4.1  In the Render dashboard, click  New  (top right) →  Blueprint .
+
+  4.2  In the picker, select the GitHub account, then the
+       "climate-law-portal" repository. Click "Connect".
+
+  4.3  Render reads render.yaml and shows a preview of what it will create:
+
+           ✅ Web service:   climate-law-portal       (Free plan)
+           ✅ Database:      climate-law-portal-db    (Free PostgreSQL)
+
+       Give the blueprint a name (e.g. "climate-law-portal") and click
+       "Apply" / "Create New Resources".
+
+  4.4  Render now does the heavy lifting (~3–6 minutes):
+
+         (a) Provisions PostgreSQL (~30–60 s).
+         (b) Clones your repo to a fresh Linux build container.
+         (c) Runs build.sh, which:
+                - upgrades pip
+                - installs requirements.txt (Django, gunicorn, whitenoise,
+                  dj-database-url, psycopg2)
+                - runs `python manage.py collectstatic --noinput`
+                - runs `python manage.py migrate --noinput`
+                - runs `python manage.py ingest_cases --path ./all_text_cases`
+                  → ingests all 5,000 cases into Postgres
+         (d) Starts gunicorn via Procfile.
+         (e) Polls /health/ until it returns 200.
+
+       Watch progress live in the "Logs" tab of the web service. The first
+       deploy is the slow one because of ingestion. Subsequent deploys are
+       instant (ingestion is idempotent — already-loaded files are skipped).
+
+  4.5  When you see  "Your service is live"  at the top of the page, copy the
+       URL Render shows. It looks like:
+
+           https://climate-law-portal.onrender.com
+           (or https://climate-law-portal-XXXX.onrender.com if the name is taken)
+
+       That's your permanent public link. Share it with anyone.
+
+
+================================================================================
+PART 5 — VERIFY EVERYTHING WORKS
+================================================================================
+
+  5.1  Open the Render URL in your browser. Confirm:
+
+         * Home page loads, shows "5,000 cases indexed."
+         * Search bar works:  https://YOUR-URL/search/?q=NEQS
+         * Case detail loads: https://YOUR-URL/case/1/
+         * Health probe:      https://YOUR-URL/health/   → "ok"
+
+  5.2  (Optional) Create an admin user so you can edit cases via /admin/.
+       In the Render dashboard:
+
+         Web service "climate-law-portal" → "Shell" tab → run:
+
+           python manage.py createsuperuser
+
+       Pick a username and a strong password, then visit:
+
+           https://YOUR-URL/admin/
+
+
+================================================================================
+PART 6 — UPDATING THE SITE LATER
+================================================================================
+
+  Every time you push a new commit to GitHub, Render auto-redeploys (because
+  autoDeploy: true is set in render.yaml). Workflow:
+
+      cd D:\EnvTribunalSimulator\Environment_law_portal
+      # ... edit code ...
+      git add .
+      git commit -m "what you changed"
+      git push
+
+  Watch the new deploy roll out in the Render Logs tab. Zero-downtime in most
+  cases.
+
+
+================================================================================
+PART 7 — IMPORTANT FREE-TIER CAVEATS  (read these)
+================================================================================
+
+  7.1  THE WEB SERVICE SLEEPS AFTER 15 MIN OF NO TRAFFIC
+
+       First visit after sleep takes ~30–60 s to wake up — Render is starting
+       a fresh container. Subsequent requests are fast.
+
+       Workaround if you want it always-warm:
+         Sign up at  https://uptimerobot.com  (free, 50 monitors).
+         Add an HTTP(S) monitor to https://YOUR-URL/health/  every 5 minutes.
+         The pings keep the container awake and double as uptime monitoring.
+
+  7.2  THE FREE POSTGRES DATABASE EXPIRES AFTER 90 DAYS
+
+       Render's free tier deletes the DB instance after 90 days. Before that:
+
+         Option A — keep using free:
+           1. Take a backup before expiry:
+                Render dashboard → Database → "Connect" → copy psql URL
+                pg_dump <url> > backup.sql
+           2. Create a new free DB on Render.
+           3. Update DATABASE_URL on the web service to point to the new DB.
+           4. Re-ingest:  python manage.py ingest_cases  (in Render Shell).
+
+         Option B — upgrade to $7/month "Starter" Postgres (no expiry).
+
+  7.3  ENVIRONMENT VARIABLES YOU CAN TWEAK IN THE RENDER DASHBOARD
+
+         DJANGO_DEBUG              "0" in production (already set)
+         DJANGO_ALLOWED_HOSTS      ".onrender.com" by default — if you map a
+                                   custom domain, append it (e.g.
+                                   ".onrender.com,law.example.com")
+         DJANGO_SECRET_KEY         auto-generated by render.yaml — do not edit
+         DATABASE_URL              wired to the Postgres instance — do not edit
+         WEB_CONCURRENCY           gunicorn workers (default 2)
+         CASES_PER_PAGE            search results per page (default 20)
+
+  7.4  CUSTOM DOMAIN (optional)
+
+       If you own a domain and want law.your-domain.com:
+
+         Render dashboard → Web service → "Settings" → "Custom Domains" →
+         add the domain → Render shows you a CNAME record → add it at your
+         DNS provider → wait a few minutes for SSL provisioning. Free.
+
+         Don't forget to add the new hostname to DJANGO_ALLOWED_HOSTS.
+
+
+================================================================================
+PART 8 — TROUBLESHOOTING
+================================================================================
+
+  Symptom: "Application failed to respond" in browser.
+    → Render dashboard → Logs tab → look for Python tracebacks. Most common:
+      a typo in a recent commit. Fix locally, push again.
+
+  Symptom: First deploy fails on `pip install`.
+    → Usually a transient PyPI issue. Click "Manual Deploy" → "Deploy latest
+      commit" to retry.
+
+  Symptom: Build succeeds but home page shows 0 cases.
+    → SSH into the Render Shell and run:
+          python manage.py ingest_cases --path ./all_text_cases
+      This is idempotent — safe to re-run.
+
+  Symptom: "DisallowedHost" error in logs after adding a custom domain.
+    → Add the domain to DJANGO_ALLOWED_HOSTS env var, then click "Manual
+      Deploy". You don't have to push a new commit.
+
+  Symptom: Push to GitHub rejected with "non-fast-forward".
+    → You committed something on the GitHub web UI. Pull first:
+          git pull --rebase origin main
+          git push
+
+  Symptom: Render Postgres connection errors after 90 days.
+    → Free DB expired. See section 7.2.
+
+  Symptom: `git add .` wo

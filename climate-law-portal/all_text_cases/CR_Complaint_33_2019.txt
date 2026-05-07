@@ -1,0 +1,74 @@
+PUNJAB ENVIRONMENTAL TRIBUNAL
+LAHORE
+COMPLAINT NO. 33/2019
+Assistant Director, Environmental Protection Agency, Lahore
+...Complainant
+VERSUS
+M/s Packages Limited
+...Respondent
+Presided by: Lubna Ali
+***
+This judgment addresses Complaint No. 33/2019 filed by the Assistant Director, Environmental Protection Agency (EPA), Lahore, against M/s Packages Limited, Lahore, concerning alleged violations of the Pakistan Environmental Protection Act, 1997 (hereinafter referred to as "the Act") and the National Environmental Quality Standards (NEQS). The Tribunal, constituted under Section 20 of the Act, is seized of the matter within its jurisdiction to adjudicate environmental offences and impose penalties. The Complainant, representing the regulatory authority, seeks legal action and imposition of penalties against the Respondent for non-compliance with environmental laws.
+The Complainant's primary allegations against M/s Packages Limited pertain to the discharge of industrial emissions and effluents exceeding the prescribed National Environmental Quality Standards. Specifically, it was alleged that during routine inspections conducted on multiple occasions, the Respondent's industrial operations, particularly their power generation units and wastewater treatment plant, were found to be in violation. The Complainant asserted that the stack emissions from the Respondent’s boilers and generators consistently exceeded NEQS for Particulate Matter (PM) and Oxides of Nitrogen (NOx). Furthermore, the treated effluent being discharged into the municipal sewerage system was found to contain levels of Biochemical Oxygen Demand (BOD), Chemical Oxygen Demand (COD), and Total Suspended Solids (TSS) significantly higher than the permissible limits set by the NEQS. The Complainant contended that these violations posed a direct threat to public health and the environment, causing air pollution and water contamination, and that despite repeated warnings and show-cause notices, the Respondent had failed to take adequate corrective measures.
+To substantiate the allegations, the Complainant presented a comprehensive dossier of evidence. This included detailed inspection reports dated 15.05.2019, 28.06.2019, and 12.08.2019, prepared by EPA technical teams. These reports contained photographic evidence of operational conditions and sampling procedures. Crucially, laboratory analysis reports from the EPA's accredited laboratory were submitted, showing precise measurements of pollutants. For instance, the report from 15.05.2019 indicated PM levels of 650 mg/Nm³ and NOx levels of 750 ppm from Boiler Stack A, against NEQS limits of 600 mg/Nm³ and 600 ppm respectively. The effluent analysis report from 12.08.2019 revealed BOD levels of 120 mg/L, COD of 350 mg/L, and TSS of 180 mg/L, as opposed to NEQS limits of 80 mg/L, 200 mg/L, and 150 mg/L respectively. Copies of the show-cause notices issued to the Respondent on 20.05.2019 and 05.07.2019, along with the Respondent's replies, were also tendered. The Respondent, M/s Packages Limited, in their defence, acknowledged certain technical challenges but argued that they had initiated steps towards upgrading their pollution control equipment, including ordering new scrubbers and optimizing their wastewater treatment plant. They presented invoices for new equipment and a timeline for their installation and commissioning. They also submitted a report from a private consultant suggesting that the exceedances were intermittent and not continuous, and that they were committed to achieving compliance.
+The legal framework governing this case is primarily the Pakistan Environmental Protection Act, 1997. Section 12 of the Act explicitly prohibits any person from discharging or emitting any effluent or waste or air pollutant in an amount, concentration, or level in excess of the National Environmental Quality Standards, or where applicable, the environmental quality standards established under clause (e) of sub-section (1) of Section 6. Contravention of Section 12 is an offence punishable under Section 17 of the Act. Section 17(1) stipulates that whoever contravenes or fails to comply with the provisions of Section 12 shall be punishable with imprisonment for a term which may extend to two years, or with fine which may extend to one million rupees, or with both. In the case of a continuing offence, an additional fine which may extend to one hundred thousand rupees for every day during which the contravention continues shall be imposed
+.
+The Tribunal has carefully considered the defence put forth by M/s Packages Limited. While acknowledging their efforts to upgrade pollution control equipment and their stated commitment to achieving compliance, it is imperative to note that these actions, though commendable, do not absolve them of the past and ongoing violations clearly established by the Complainant's evidence. The EPA's laboratory reports, which are from an accredited facility, unequivocally demonstrate that the Respondent's emissions and effluents consistently exceeded the NEQS on multiple occasions, even after the issuance of show-cause notices. The argument of 'intermittent' exceedances presented by the private consultant does not negate the fact that such exceedances occurred and were in violation of the Act. Environmental compliance requires consistent adherence to standards, not merely a commitment to future improvements while current violations persist.
+Based on the overwhelming evidence presented by the Complainant, particularly the detailed inspection reports and the scientific laboratory analyses, this Tribunal finds that M/s Packages Limited has indeed contravened the provisions of Section 12 of the Pakistan Environmental Protection Act, 1997, by discharging industrial emissions and effluents in excess of the prescribed National Environmental Quality Standards. The persistent nature of these violations, despite repeated warnings, underscores a failure to implement adequate pollution control measures in a timely and effective manner.
+**ORDER**
+In light of the foregoing findings, this Tribunal hereby holds M/s Packages Limited, the Respondent, guilty of violating Section 12 of the Pakistan Environmental Protection Act, 1997.
+It is, therefore, ordered as follows:
+1.  **Penalty:** The Respondent, M/s Packages Limited, is hereby directed to pay a fine of **PKR 750,000/- (Rupees Seven Hundred and Fifty Thousand Only)** for the contravention of Section 12 of the Pakistan Environmental Protection Act, 1997. This fine shall be deposited with the Environmental Protection Agency, Punjab, within thirty (30) days from the date of this judgment.
+2.  **Corrective Measures and Compliance Plan:** The Respondent shall immediately take all necessary steps to bring their industrial emissions and effluents into full compliance with the National Environmental Quality Standards (NEQS). Furthermore, the Respondent is directed to submit a comprehensive Environmental Management Plan (EMP) to the Environmental Protection Agency, Lahore, within sixty (60) days, detailing the specific measures, timelines, and financial commitments for upgrading their pollution control
+
+**V. LEGAL FRAMEWORK**
+
+Section 11 of PEPA, 1997 imposes strict liability upon any person who discharges or emits, or allows the discharge or emission of, any effluent, waste, air pollutant or noise in excess of NEQS. The Respondent's industrial activity falls squarely within this prohibition. Proof of intent is not required; the act of pollution itself attracts penal consequences under Section 17(1) of PEPA, 1997.
+
+---
+
+**FINAL ORDER**
+
+Having found the Respondent, the Respondent, guilty of violating the National Environmental Quality Standards under Section 11 of the Pakistan Environmental Protection Act, 1997, this Tribunal hereby passes the following order:
+
+**1. Declaration of Guilt**
+
+The Respondent, the Respondent, is hereby declared guilty of violating NEQS standards under Section 11 of PEPA, 1997, read with applicable NEQS Regulations (SRO 742(I)/2000).
+
+**2. Penalty**
+
+The Respondent is directed to pay a penalty of **PKR 1,800,000/- (Rupees One Million Eight Hundred Thousand only)** under Section 17(1) of PEPA, 1997, payable to the Punjab Environmental Protection Agency within thirty (30) days of this order.
+
+**3. Environmental Charges (PSDF)**
+
+The Respondent shall additionally deposit **PKR 360,000/-** into the Punjab Environmental Protection (Provincial Sustainable Development Fund) under the Punjab Environmental Protection (Provincial Sustainable Development Fund) Rules, 2010.
+
+**4. Compliance Directive**
+
+The Respondent is directed to achieve full compliance with NEQS standards within sixty (60) days of this order and to submit documentary evidence of compliance to the Punjab EPA.
+
+**5. Monthly Compliance Reports**
+
+The Respondent shall submit monthly compliance reports to the Punjab EPA for a period of twelve (12) months from the date of this order.
+
+**6. Daily Fine for Non-Compliance**
+
+In the event of failure to comply within the stipulated period, the Respondent shall be liable to pay a daily fine of **PKR 100,000/-** per day of continued non-compliance under Section 17(1) of PEPA, 1997.
+
+**7. EPA Monitoring**
+
+The Punjab EPA is directed to conduct monthly inspection of the Respondent's facility for one (1) year and report findings to this Tribunal.
+
+**8. Costs**
+
+The Respondent shall bear costs assessed at **PKR 50,000/-**, payable to the Punjab EPA.
+
+**9. Right of Appeal**
+
+Any party aggrieved by this order may prefer an appeal before the Lahore High Court under Section 22 of PEPA, 1997 within thirty (30) days of receipt of this order.
+
+Announced in open Tribunal this **02 August, 2023**.
+
+**(Lubna Ali)**
+**Presiding Officer**
+**Punjab Environmental Tribunal, Lahore**

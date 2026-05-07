@@ -1,0 +1,116 @@
+**PUNJAB ENVIRONMENTAL TRIBUNAL, LAHORE**
+**COMPLAINT NO. 93/2021**
+
+**Punjab Environmental Protection Agency, through Director (Environment)**
+                                                                    ...Complainant
+
+**VERSUS**
+
+**GlaxoSmithKline Pakistan Limited**
+                                                                    ...Respondent
+
+**Presided by: Justice (R) Syed Iftikhar Hussain Shah**
+
+---
+
+**JUDGMENT**
+
+This complaint was filed on 17 April, 2021 before this Tribunal, which exercises jurisdiction over environmental offences committed within the province of Punjab under Section 21 of the Pakistan Environmental Protection Act, 1997 (PEPA, 1997). The matter pertains to violations of the National Environmental Quality Standards (NEQS) by GlaxoSmithKline Pakistan Limited, a Pharmaceuticals facility located at Lahore. This is a repeat violation by the Respondent, having previously been found in breach of environmental standards, which aggravates the present offence. The Environmental Protection Order (EPO) bearing No. EPA/EPO/2021/093 was issued under Section 16 of PEPA, 1997 and the requisite compliance period has since expired without compliance being achieved.
+
+**I. COMPLAINANT'S ALLEGATIONS**
+
+The Complainant alleged that the Respondent is continuously discharging untreated industrial effluent into the municipal drainage network in gross violation of the National Environmental Quality Standards (NEQS) for Industrial Effluents (SRO 742(I)/2000), causing irreversible damage to the water bodies and posing a grave public health risk to the surrounding communities.
+
+Specifically, the Complainant's allegations are as follows:
+
+(a) The Respondent's facility has been found discharging/emitting pollutants in excess of NEQS limits in violation of Section 11 of PEPA, 1997;
+
+(b) The Respondent has failed to comply with Environmental Protection Order No. EPA/EPO/2021/093 issued under Section 16 of PEPA, 1997 within the stipulated compliance period;
+
+(c) The Respondent has not taken adequate remedial and preventive measures despite multiple EPA inspection reports documenting the violations.
+
+**II. EVIDENCE ON RECORD**
+
+**1. EPA Inspection Reports**
+   Inspection reports dated 14/10/2021 and 04/08/2021 prepared by authorized Environmental Officers of the Punjab EPA confirming NEQS violations at the Respondent's facility.
+
+**2. Environmental Protection Order No. EPA/EPO/2021/093**
+   EPO issued under Section 16 of PEPA, 1997 directing the Respondent to cease violations and achieve NEQS compliance within the specified period.
+
+**3. Laboratory Analysis Reports**
+   Certified laboratory test results (Ref. No. NEQS-LAB/2021/0093) from a PEPA-certified laboratory confirming BOD5, COD, TSS and pH exceedances in the Respondent's final effluent discharge.
+
+**4. Photographic Evidence**
+   Photographs and video footage recorded during EPA inspection confirming the observed violations.
+
+**5. Non-Compliance Report**
+   Report confirming the Respondent's failure to achieve compliance within the period stipulated in EPO No. EPA/EPO/2021/093.
+
+**NEQS EXCEEDANCE TABLE (Industrial Effluents — SRO 742(I)/2000)**
+
+  Parameter    Found           Limit           Status
+  ---------    -----           -----           ------
+  BOD5         165.4 mg/L       80 mg/L       VIOLATION
+  COD          453.8 mg/L       150 mg/L       VIOLATION
+  TSS          341.5 mg/L       200 mg/L       VIOLATION
+  pH           4.5              6 - 9            VIOLATION
+
+**III. RESPONDENT'S DEFENSE**
+
+Learned counsel for the Respondent, Ms. Zara Hashmi, argued that the pollution levels measured by the EPA were the result of a temporary operational disruption and that the Respondent had been in routine compliance with NEQS standards as evidenced by its own third-party laboratory reports. The sampling methodology was also challenged as not conforming to prescribed protocols.
+
+**IV. TRIBUNAL'S ANALYSIS**
+
+Having considered the evidence on record, this Tribunal finds that the EPA inspection was conducted by authorized officers, samples were collected following prescribed protocols, and the laboratory results are from a certified laboratory. The chain of custody documentation is complete and the Respondent's challenge to the sampling methodology is without merit. The NEQS exceedances are established beyond any reasonable doubt.
+
+**V. LEGAL FRAMEWORK**
+
+This Tribunal is vested with jurisdiction under Section 21 of PEPA, 1997 to try environmental offences committed within its territorial limits. Having found the Respondent guilty of violating NEQS standards, the Tribunal is empowered under Section 17(1) to impose financial penalties, direct remedial measures, and order contribution to the Provincial Sustainable Development Fund (PSDF) under the Punjab Environmental Protection (Provincial Sustainable Development Fund) Rules, 2010.
+
+---
+
+**FINAL ORDER**
+
+Having found the Respondent, GlaxoSmithKline Pakistan Limited, guilty of violating the National Environmental Quality Standards under Section 11 of the Pakistan Environmental Protection Act, 1997, this Tribunal hereby passes the following order:
+
+**1. Declaration of Guilt**
+
+The Respondent, GlaxoSmithKline Pakistan Limited, is hereby declared guilty of violating NEQS standards under Section 11 of PEPA, 1997, read with applicable NEQS Regulations (SRO 742(I)/2000).
+
+**2. Penalty**
+
+The Respondent is directed to pay a penalty of **PKR 1,200,000/- (Rupees One Million Two Hundred Thousand only)** under Section 17(1) of PEPA, 1997, payable to the Punjab Environmental Protection Agency within thirty (30) days of this order.
+
+**3. Environmental Charges (PSDF)**
+
+The Respondent shall additionally deposit **PKR 240,000/-** into the Punjab Environmental Protection (Provincial Sustainable Development Fund) under the Punjab Environmental Protection (Provincial Sustainable Development Fund) Rules, 2010.
+
+**4. Compliance Directive**
+
+The Respondent is directed to achieve full compliance with NEQS standards within sixty (60) days of this order, including ensuring full operationalization of the Effluent Treatment Plant / pollution control system, and to submit documentary evidence of compliance to the Punjab EPA.
+
+**5. Monthly Compliance Reports**
+
+The Respondent shall submit monthly compliance reports to the Punjab EPA for a period of twelve (12) months commencing from the date of this order, incorporating certified laboratory test results from a NEQS-certified laboratory.
+
+**6. Daily Fine for Non-Compliance**
+
+In the event of failure to comply with the directions in paragraphs 4 and 5 above within the stipulated period, the Respondent shall be liable to pay a daily fine of **PKR 100,000/-** per day of continued non-compliance under Section 17(1) of PEPA, 1997.
+
+**7. EPA Monitoring**
+
+The Punjab EPA is directed to conduct monthly inspection of the Respondent's facility for a period of one (1) year and to report findings to this Tribunal. The EPA is authorized to seal the facility in the event of continued non-compliance.
+
+**8. Costs**
+
+The Respondent shall bear the costs of this proceedings including the costs of laboratory analysis and EPA inspection, assessed at **PKR 50,000/-**, payable to the Punjab EPA.
+
+**9. Right of Appeal**
+
+Any party aggrieved by this order may prefer an appeal before the Lahore High Court under Section 22 of PEPA, 1997 within thirty (30) days of receipt of this order.
+
+Announced in open Tribunal this **11 November, 2022**.
+
+**(Justice (R) Syed Iftikhar Hussain Shah)**
+**Presiding Officer**
+**Punjab Environmental Tribunal, Lahore**

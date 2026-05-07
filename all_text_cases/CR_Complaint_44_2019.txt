@@ -1,0 +1,101 @@
+PUNJAB ENVIRONMENTAL TRIBUNAL
+LAHORE
+COMPLAINT NO. 44/2019
+Assistant Director, Environmental Protection Agency, Lahore
+...Complainant
+VERSUS
+M/s Packages Limited
+...Respondent
+Presided by: Justice (R) Nasir Saeed Sheikh
+This judgment addresses Complaint No. 44/2019, filed by the Assistant Director, Environmental Protection Agency (EPA), Lahore, against M/s Packages Limited, a prominent industrial entity engaged in the manufacturing of packaging materials and paper products, situated on Shahrah-e-Roomi, Lahore. The complaint, lodged on October 15, 2019, alleges persistent violations of environmental laws and standards, posing a significant threat to public health and the surrounding environment. This Tribunal, constituted under the Pakistan Environmental Protection Act, 1997 (hereinafter referred to as "the Act"), has carefully considered the submissions, evidence, and legal arguments presented by both parties.
+The Complainant, through its authorized representative, Mr. Adnan Sheikh, Assistant Director, EPA, Lahore, brought forth a series of grave allegations against M/s Packages Limited. It was contended that the Respondent company has been discharging untreated or inadequately treated industrial effluent directly into the municipal sewerage system, eventually contaminating surface and groundwater sources. Specifically, the allegations included:
+a. Violation of National Environmental Quality Standards (NEQS) for industrial effluent, particularly concerning parameters such as Biological Oxygen Demand (BOD), Chemical Oxygen Demand (COD), Total Suspended Solids (TSS), and pH levels, as stipulated in Schedule I of the Pakistan Environmental Protection Agency (Review of IEE/EIA) Regulations, 2000.
+b. Failure to effectively operate and maintain its Effluent Treatment Plant (ETP), leading to the discharge of hazardous pollutants.
+c. Emission of air pollutants, including particulate matter (PM), sulfur dioxide (SO2), and nitrogen oxides (NOx), from its boiler and process stacks exceeding the NEQS for industrial gaseous emissions, as per Schedule II of the aforementioned Regulations.
+d. Improper management and disposal of hazardous industrial waste, including sludge from the ETP and chemical residues, in contravention of the Hazardous Substances Rules, 2003.
+e. Operating certain units without a valid Environmental Approval (NOC) from the EPA, particularly regarding recent expansions and modifications to its production processes.
+f. Non-compliance with previous environmental improvement notices issued by the EPA dated June 10, 2019, and August 22, 2019.
+To substantiate its claims, the Complainant presented a comprehensive dossier of evidence. This included multiple inspection reports conducted by EPA teams on various dates between June and September 2019, detailing observations of dark-colored effluent discharge and visible smoke emissions. Crucially, laboratory analysis reports from the EPA's accredited laboratory were submitted, showing consistent exceedances of NEQS for BOD, COD, TSS, and pH in effluent samples collected from the Respondent's discharge points on July 15, 2019, and September 03, 2019. Similarly, stack emission monitoring reports from August 20, 2019, indicated higher-than-permissible levels of PM and SO2. Photographic and videographic evidence depicting the alleged violations, along
+with copies of the unheeded environmental improvement notices.
+In response, M/s Packages Limited, represented by its legal counsel, Mr. Zahid Hussain, Senior Advocate, firmly denied the persistent nature of the alleged violations and contended that the company is fully committed to environmental stewardship. The Respondent acknowledged receipt of the EPA notices but asserted that proactive measures had been taken to address the concerns raised. They
+had invested significant resources in upgrading their Effluent Treatment Plant (ETP) and installing advanced air pollution control technologies. Mr. Hussain argued that some of the reported exceedances might have been isolated incidents during commissioning phases or maintenance periods, rather than a reflection of systemic non-compliance. He emphasized the company's long-standing operational history, its contributions to the national economy, and its ISO 14001 certification as proof of its commitment to environmental management.
+Regarding the specific allegations, the Respondent submitted:
+a. That the ETP underwent a major overhaul in July 2019, and the samples collected by EPA on July 15, 2019, and September 03, 2019, might have captured the system either under stress during the upgrade or before it reached optimal performance. They provided invoices and completion certificates for the ETP upgrade.
+b. That continuous monitoring systems for air emissions were being installed, and while there might have been temporary exceedances, the overall emissions were within permissible limits, or steps were actively being taken to bring them into compliance.
+c. That hazardous waste was being managed by an EPA-approved third-party contractor, and proper records of disposal were maintained, challenging the EPA's assertion of improper management.
+d. That applications for Environmental Approvals (NOCs) for recent expansions were in process with the EPA, and the delay was partly attributable to bureaucratic procedures.
+e. That the company had responded to the previous notices and was engaged in a dialogue with EPA officials to resolve outstanding issues. They sought a pragmatic approach that would allow them to achieve full compliance without unduly disrupting their operations.
+The Tribunal, having meticulously reviewed the entire record, including the inspection reports, laboratory analyses, photographic evidence, and the Respondent's submissions, finds as follows:
+**Findings of the Tribunal:**
+1.  **Jurisdiction:** The Tribunal is duly constituted under Section 20 of the Pakistan Environmental Protection Act, 1997, and has the requisite jurisdiction to hear and decide the present complaint.
+2.  **Effluent Discharge Violations:** The laboratory analysis reports presented by the Complainant, showing consistent exceedances of NEQS for BOD, COD, TSS, and pH in effluent samples collected on July 15, 2019, and September 03, 2019, are compelling. While the Respondent claimed an ETP overhaul, the burden of proof rests on them to demonstrate that during the period of alleged violation, their system was compliant or that the exceedances were genuinely isolated and beyond their control despite reasonable efforts. The evidence suggests a pattern of non-compliance preceding and during the overhaul period. The Tribunal notes that even during an upgrade, measures must be in place to prevent the discharge of untreated effluent. The argument that the system was under stress does not absolve the Respondent of responsibility for violating NEQS.
+3.  **Air Emission Violations:** The stack emission monitoring reports from August 20, 2019, indicating higher-than-permissible levels of PM and SO2, are credible. The Respondent's assertion of installing continuous monitoring systems and taking steps towards compliance is noted but does not negate the fact of past violations. Compliance must be demonstrated, not merely promised.
+4.  **Hazardous Waste Management:** The Complainant's general allegation of improper management was countered by the Respondent's claim of using an EPA-approved third-party contractor. While the Respondent provided no detailed records of disposal for the specific period under review, the Complainant also failed to provide direct evidence of improper disposal by the Respondent itself, beyond sludge from the ETP. This specific allegation requires more concrete proof of direct contravention by the Respondent. However, the responsibility for proper disposal ultimately rests with the generator.
+5.  **Operating without Environmental Approval (NOC):** The Respondent's admission that applications for NOCs for recent expansions were "in process" confirms the Complainant's allegation that certain units were indeed operating without valid environmental approval. Operating any industrial unit without the requisite NOC is a clear violation of Section 12 of the Act.
+6.  **Non-compliance with Previous Notices:** The existence of unheeded environmental improvement notices dated June 10, 2019, and August 22, 2019, clearly demonstrates a failure on the part of the Respondent to promptly address the EPA's concerns, leading to the escalation of the matter to this Tribunal.
+Based on the preponderance of evidence, the Tribunal finds that M/s Packages Limited has failed to comply with the National Environmental Quality Standards for industrial effluent and gaseous emissions, operated certain units without valid Environmental Approvals, and failed to adequately respond to environmental improvement notices issued by the EPA. The Respondent's arguments, while acknowledging efforts, do not fully negate the proven instances of non-compliance. The persistent nature of the violations, as evidenced by multiple inspections and laboratory reports over several months, indicates a systemic issue rather than isolated incidents.
+**ORDER AND PENALTY**
+In light of the foregoing findings, this Tribunal hereby orders as follows:
+1.  **Cessation of Violations:** M/s Packages Limited is directed to immediately cease all discharges of untreated or inadequately treated industrial effluent and all emissions exceeding the National Environmental Quality Standards (NEQS) for industrial gaseous emissions.
+2.  **ETP Upgrade and Maintenance:** The Respondent shall, within **ninety (90) days** from the date of this order, ensure that its Effluent Treatment Plant (ETP) is fully operational, upgraded to meet and consistently comply with all NEQS parameters for industrial effluent. The Respondent shall submit a detailed report, certified by an independent EPA-approved environmental consultant, confirming the upgrade and consistent compliance, along with monthly monitoring reports for six months thereafter.
+3.  **Air Pollution Control:** The Respondent shall, within **one hundred and twenty (120) days** from the date of this order, install and fully operationalize appropriate air pollution control devices for its boiler and process stacks to ensure that all gaseous emissions, including particulate matter (PM), sulfur dioxide (SO2), and nitrogen oxides (NOx), consistently meet the NEQS. Evidence of compliance, including installation certificates and quarterly stack emission monitoring reports, shall be submitted to the EPA.
+4.  **Environmental Approvals (NOCs):** The Respondent shall, within **sixty (60) days** from the date of this order, complete the process of obtaining all necessary Environmental Approvals (NOCs) from the EPA for any and all expansions or modifications to its production processes operating without such approvals. Proof of application submission and follow-up shall be provided.
+5.  **Hazardous Waste Management Plan:** The Respondent shall submit to the EPA, within **thirty (30) days** from the date of this order, a comprehensive Hazardous Waste Management Plan, detailing the collection, storage, treatment, and disposal procedures for all hazardous industrial waste, including ETP sludge and chemical residues, in strict compliance with the Hazardous Substances Rules, 2003. This plan must include agreements with EPA-approved waste handlers and detailed record-keeping protocols.
+6.  **Monetary Penalty:** In exercise of the powers conferred by Section 17(1) of the Pakistan Environmental Protection Act, 1997, and considering the persistent nature of the violations and the potential harm to public health and the environment, M/s Packages Limited is hereby imposed a penalty of **PKR 5,000,000/- (Rupees Five Million only)**. This penalty shall be deposited with the Environmental Protection Agency, Government of Punjab, within **thirty (30) days** from the date of this order.
+7.  **Default Clause:** In the event of non-compliance with any of the directives contained in this order, the Respondent shall be liable to further penalties as prescribed under the Act, including but not limited to, an additional daily fine of PKR 100,000/- (Rupees One Hundred Thousand only) for each day of continued non-compliance, and potential closure of the defaulting units
+
+**IV. TRIBUNAL'S ANALYSIS**
+
+Upon examination of all evidence produced before this Tribunal, it is evident that the Respondent has been operating its facility in continuous violation of applicable NEQS standards. The defense arguments do not address the substance of the documented pollution. This Tribunal holds that strict liability applies under Section 11 of PEPA, 1997, and proof of intent or negligence is not required for the imposition of penalty.
+
+**V. LEGAL FRAMEWORK**
+
+Section 11 of PEPA, 1997 creates an absolute prohibition against the discharge of pollutants in excess of NEQS. This prohibition is reinforced by the principle of strict environmental liability recognized in the jurisprudence of the superior courts of Pakistan. Non-compliance with an EPO issued under Section 16 aggravates the culpability of the Respondent and justifies the imposition of an enhanced penalty.
+
+---
+
+**FINAL ORDER**
+
+Having found the Respondent, the Respondent, guilty of violating the National Environmental Quality Standards under Section 11 of the Pakistan Environmental Protection Act, 1997, this Tribunal hereby passes the following order:
+
+**1. Declaration of Guilt**
+
+The Respondent, the Respondent, is hereby declared guilty of violating NEQS standards under Section 11 of PEPA, 1997, read with applicable NEQS Regulations (SRO 742(I)/2000).
+
+**2. Penalty**
+
+The Respondent is directed to pay a penalty of **PKR 1,600,000/- (Rupees One Million Six Hundred Thousand only)** under Section 17(1) of PEPA, 1997, payable to the Punjab Environmental Protection Agency within thirty (30) days of this order.
+
+**3. Environmental Charges (PSDF)**
+
+The Respondent shall additionally deposit **PKR 320,000/-** into the Punjab Environmental Protection (Provincial Sustainable Development Fund) under the Punjab Environmental Protection (Provincial Sustainable Development Fund) Rules, 2010.
+
+**4. Compliance Directive**
+
+The Respondent is directed to achieve full compliance with NEQS standards within sixty (60) days of this order and to submit documentary evidence of compliance to the Punjab EPA.
+
+**5. Monthly Compliance Reports**
+
+The Respondent shall submit monthly compliance reports to the Punjab EPA for a period of twelve (12) months from the date of this order.
+
+**6. Daily Fine for Non-Compliance**
+
+In the event of failure to comply within the stipulated period, the Respondent shall be liable to pay a daily fine of **PKR 100,000/-** per day of continued non-compliance under Section 17(1) of PEPA, 1997.
+
+**7. EPA Monitoring**
+
+The Punjab EPA is directed to conduct monthly inspection of the Respondent's facility for one (1) year and report findings to this Tribunal.
+
+**8. Costs**
+
+The Respondent shall bear costs assessed at **PKR 50,000/-**, payable to the Punjab EPA.
+
+**9. Right of Appeal**
+
+Any party aggrieved by this order may prefer an appeal before the Lahore High Court under Section 22 of PEPA, 1997 within thirty (30) days of receipt of this order.
+
+Announced in open Tribunal this **11 August, 2023**.
+
+**(Justice (R) Nasir Saeed Sheikh)**
+**Presiding Officer**
+**Punjab Environmental Tribunal, Lahore**

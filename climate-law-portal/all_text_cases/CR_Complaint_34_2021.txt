@@ -1,0 +1,57 @@
+PUNJAB ENVIRONMENTAL TRIBUNAL
+LAHORE
+COMPLAINT NO. 34/2021
+Assistant Director, Environmental Protection Agency, Lahore
+...Complainant
+VERSUS
+M/s Ittehad Chemicals Limited
+...Respondent
+Presided by: Justice (R) Ali Baqar Najafi
+This judgment addresses Complaint No. 34/2021 filed by the Assistant Director, Environmental Protection Agency (EPA), Lahore, against M/s Ittehad Chemicals Limited, seeking remedial action and imposition of penalties for alleged violations of the Pakistan Environmental Protection Act, 1997 (PEPA, 1997). The Tribunal has carefully considered the submissions, evidence, and legal arguments presented by both parties to arrive at a just and equitable decision concerning the environmental compliance of the Respondent.
+The Complainant, through its authorized officer, alleged that M/s Ittehad Chemicals Limited, an industrial unit engaged in chemical manufacturing, was operating in contravention of environmental laws and standards. Specifically, the allegations included:
+1.  Discharge of untreated or inadequately treated industrial effluent into the Lahore Branch Canal, exceeding the prescribed National Environmental Quality Standards (NEQS) for various parameters, particularly Chemical Oxygen Demand (COD), Biological Oxygen Demand (BOD), Total Suspended Solids (TSS), and pH.
+2.  Emission of air pollutants, including particulate matter and noxious gases, from its industrial processes, exceeding the NEQS for industrial gaseous emissions.
+3.  Improper management and disposal of hazardous waste generated during its manufacturing operations, leading to potential soil and groundwater contamination.
+4.  Failure to submit regular and comprehensive environmental monitoring reports as required by its Environmental Approval/No Objection Certificate (NOC) granted under Section 12 of PEPA, 1997.
+5.  Non-compliance with previous directions and warnings issued by the EPA regarding environmental improvements.
+The Complainant contended that these violations posed a significant threat to public health and the environment, necessitating urgent intervention and punitive action by the Tribunal.
+To substantiate its claims, the Complainant presented a series of documents and expert testimonies. Key evidence included:
+1.  **Inspection Reports**: Dated 15.03.2021, 22.05.2021, and 01.07.2021, detailing observations of effluent discharge, smoke emissions, and waste storage practices at the Respondent's premises.
+2.  **Laboratory Analysis Reports**: From the EPA-approved laboratory, demonstrating that samples of industrial effluent collected on 22.05.2021 and 01.07.2021 consistently exceeded NEQS for COD (average 350 mg/L against standard 150 mg/L), BOD (average 180 mg/L against standard 80 mg/L), and TSS (average 250 mg/L against standard 200 mg/L). Air emission samples taken on 01.07.2021 also showed particulate matter levels (average 200 mg/Nm³ against standard 150 mg/Nm³).
+3.  **Show Cause Notices and Warning Letters**: Issued by EPA on 10.04.2021 and 15.06.2021, highlighting non-compliance and requesting remedial measures, to which the Respondent's responses were deemed unsatisfactory.
+4.  **Photographic and Videographic Evidence**: Depicting visible pollution, including discolored effluent discharge and visible plumes of smoke.
+The Respondent, M/s Ittehad Chemicals Limited, through its legal counsel and technical representatives, denied the allegations in part and offered explanations for others. Their defense centered on:
+1.  **Operational Challenges**: Citing unforeseen technical glitches in their Effluent Treatment Plant (ETP) and Air Pollution Control Devices (APCDs) during the periods of alleged non-compliance, which they claimed were temporary and promptly addressed.
+2.  **Efforts Towards Compliance**: Presenting purchase orders and invoices for upgrades to their ETP and APCDs, and internal memos indicating steps taken to improve environmental performance.
+3.  **Monitoring Data**: Submitting their own internal monitoring reports, which, while showing some fluctuations, generally indicated compliance or near-compliance. However, the methodology and accreditation of their internal lab were questioned by the Complainant.
+4.  **Economic Impact**: Arguing that stringent penalties could severely impact their operations and employment.
+5.  **Cooperation with EPA**: Stating their willingness to cooperate with the EPA and implement any reasonable directives.
+The present complaint is grounded in the provisions of the Pakistan Environmental Protection Act, 1997 (PEPA, 1997), specifically:
+1.  **Section 11**: Prohibiting the discharge or emission of any effluent or waste or air pollutant or noise in an amount, concentration or level which is in excess of the National Environmental Quality Standards (NEQS).
+2.  **Section 12**: Requiring an Initial Environmental Examination (IEE) or Environmental Impact Assessment (EIA) for new projects and adherence to conditions specified in the environmental approval. Any deviation from these conditions constitutes a violation.
+3.  **Section 13**: Empowering the Federal Agency (EPA) to issue Environmental Protection Orders (EPOs) to prevent or control pollution.
+4.  **Section 16**: Prescribing penalties for contravention of the provisions of the Act, Rules, or Orders made thereunder.
+5.  **Section 17**: Granting jurisdiction to Environmental Tribunals to try offenses under the Act and impose penalties.
+6.  **National Environmental Quality Standards (NEQS) for Municipal and Industrial Effluents (Revised 2000) and NEQS for Industrial Gaseous Emissions (Revised 2010)**, which set the permissible limits for various pollutants.
+Upon careful evaluation of the evidence presented by both sides and considering the legal framework, the Tribunal makes the following findings:
+1.  The Complainant's laboratory analysis reports, being from an EPA-approved facility and corroborated by multiple inspections and photographic evidence, carry significant weight. These reports consistently demonstrate that the Respondent's industrial effluent discharge and air emissions exceeded the prescribed NEQS during the periods in question. The discrepancies between the Complainant's and Respondent's monitoring data, particularly regarding critical parameters like COD, BOD, TSS, and particulate matter, are resolved in favor of the Complainant's accredited reports.
+2.  While the
+Respondent claimed operational challenges and efforts towards compliance, these explanations are not sufficient to absolve them of responsibility for the documented breaches of environmental standards. The purchase orders and internal memos, while indicative of intent, do not negate the objective evidence of non-compliance presented by the Complainant.
+3.  The Tribunal finds that the Respondent failed to effectively manage and dispose of hazardous waste generated from its operations, as
+observed during inspections and not adequately refuted by the Respondent. This constitutes a violation of the general duty to manage waste responsibly under PEPA, 1997, and its associated rules.
+4.  The Respondent's failure to submit regular and comprehensive environmental monitoring reports, and its inadequate response to previous show cause notices and warning letters issued by the EPA, further demonstrate a pattern of non-compliance with the conditions of its environmental approval and the general directives of the regulatory authority.
+Based on the preponderance of evidence, the Tribunal concludes that M/s Ittehad Chemicals Limited has indeed violated Sections 11 and 12 of the Pakistan Environmental Protection Act, 1997, by discharging effluents and emissions exceeding NEQS, failing to properly manage hazardous waste, and demonstrating a lack of diligent compliance with regulatory requirements. The arguments regarding operational challenges and economic impact, while noted, do not override the paramount public interest in environmental protection and the strict liability nature of environmental compliance under PEPA, 1997.
+Therefore, exercising the powers vested in this Tribunal under Section 17 read with Section 16 of the Pakistan Environmental Protection Act, 1997, the Tribunal hereby issues the following Order and imposes the following penalties:
+**FINAL ORDER AND PENALTY**
+1.  **Cessation of Non-Compliance**: M/s Ittehad Chemicals Limited is hereby directed to immediately cease the discharge of untreated or inadequately treated effluent and the emission of air pollutants exceeding the National Environmental Quality Standards (NEQS). The Respondent shall ensure that its Effluent Treatment Plant (ETP) and Air Pollution Control Devices (APCDs) are fully operational and performing optimally to meet all prescribed NEQS.
+2.  **Hazardous Waste Management**: The Respondent shall forthwith implement a comprehensive hazardous waste management plan, including proper segregation, storage, treatment, and disposal through EPA-approved facilities, and shall provide proof of such arrangements to the Environmental Protection Agency (EPA), Lahore, within sixty (60) days from the date of this order.
+3.  **Monitoring and Reporting**: The Respondent shall submit quarterly environmental monitoring reports, duly certified by an EPA-approved third-party laboratory, to the EPA, Lahore, for a period of two (2) years, commencing from the quarter immediately following the date of this order. These reports shall cover all parameters specified in their Environmental Approval/No Objection Certificate (NOC) and NEQS.
+4.  **Action Plan for Upgrades**: The Respondent shall submit a detailed action plan for the upgrade and optimization of its ETP and APCDs, along with a realistic timeline for implementation, to the EPA within thirty (30) days. The EPA shall review and approve this plan, and the Respondent shall adhere strictly to the approved timeline. Progress reports on the implementation of this plan shall be submitted monthly to the EPA.
+5.  **Financial Penalty**: In light of the persistent violations and the potential harm to the environment and public health, a penalty of **PKR 5,000,000/- (Rupees Five Million only)** is hereby imposed on M/s Ittehad Chemicals Limited under Section 16 of the Pakistan Environmental Protection Act, 1997. This amount shall be deposited into the Environmental Protection Fund within thirty (30) days from the date of this order.
+6.  **Consequences of Non-Compliance**: Failure to comply with any part of this order or to deposit the penalty within the stipulated time shall result in further legal action, including but not limited to, the imposition of a daily fine as per Section 16(2) of PEPA, 1997, and potential closure of the industrial unit as per law.
+There shall be no order as to costs.
+Any aggrieved party may prefer an appeal against this judgment before the High Court within thirty (30) days as per Section 22 of PEPA, 1997.
+Issued on this ____ day of __________, 2024.
+**Mr. Justice (R) Nasir Saeed Sheikh**
+Presiding Officer
+Punjab Environmental Tribunal, Lahore

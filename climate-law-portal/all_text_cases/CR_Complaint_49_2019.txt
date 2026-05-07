@@ -1,0 +1,92 @@
+PUNJAB ENVIRONMENTAL TRIBUNAL
+LAHORE
+**COMPLAINT NO. 49/2019**
+Assistant Director, Environmental Protection Agency, Lahore
+...Complainant
+VERSUS
+M/s Ghani Glass Limited
+...Respondent
+**Presided by: Justice (R) Nasir Saeed Sheikh**
+This judgment addresses Complaint No. 49/2019, filed by the Assistant Director, Environmental Protection Agency (hereinafter referred to as "the EPA" or "the Complainant"), Lahore, against M/s Ghani Glass Limited (hereinafter referred to as "the Respondent"), alleging violations of environmental laws and standards.
+The Complainant, representing the provincial environmental regulatory body, brought this action against the Respondent, a prominent industrial entity engaged in the manufacturing of glass products, located in the industrial area of Lahore. The complaint was instituted under the provisions of the Pakistan Environmental Protection Act, 1997 (PEPA, 1997), seeking redress for alleged environmental pollution caused by the Respondent's industrial operations. The core issue revolves around the Respondent's alleged failure to comply with the National Environmental Quality Standards (NEQS) for industrial effluents, thereby posing a significant threat to public health and the environment.
+The Complainant's allegations primarily centered on the Respondent's continuous discharge of untreated or inadequately treated industrial effluent into the public sewerage system and ultimately into surface water bodies, specifically the Lahore Canal, in contravention of the NEQS. It was alleged that the Respondent's effluent treatment plant (ETP), if operational, was either insufficient or improperly maintained, leading to the release of pollutants, including but not limited to, high levels of Biochemical Oxygen Demand (BOD), Chemical Oxygen Demand (COD), Total Suspended Solids (TSS), and various heavy metals, exceeding the prescribed limits. The EPA further alleged that despite repeated warnings and issuance of show-cause notices, the Respondent failed to take effective remedial measures to bring its operations into compliance with environmental regulations. The complaint detailed specific instances of non-compliance based on multiple inspections and laboratory analyses conducted by the EPA, indicating a persistent pattern of environmental degradation.
+To substantiate its claims, the Complainant presented a series of documentary evidence, including:
+1.  **Inspection Reports:** Multiple inspection reports prepared by EPA field teams on various dates between January 2018 and June 2019, documenting the Respondent's operational status and observation of effluent discharge.
+2.  **Laboratory Analysis Reports:** Certified analytical reports from the EPA's accredited laboratory, detailing the chemical and physical parameters of effluent samples collected from the Respondent's discharge points. These reports consistently showed exceedances of NEQS for BOD, COD, TSS, chromium, and lead. For instance, a sample collected on 15.03.2019 showed BOD at 350 mg/L (NEQS: 80 mg/L), COD at 800 mg/L (NEQS: 150 mg/L), and TSS at 450 mg/L (NEQS: 200 mg/L).
+3.  **Show-Cause Notices and Correspondence:** Copies of show-cause notices issued to M/s Ghani Glass Limited on 20.08.2018 and 05.04.2019, directing them to explain the non-compliance and take corrective actions, along with subsequent reminder letters.
+4.  **Photographic Evidence:** Photographs depicting the discharge point and the color/turbidity of the effluent.
+In response, the Respondent, M/s Ghani Glass Limited, through its legal counsel, denied the allegations. They contended that they operate a functional Effluent Treatment Plant (ETP) and are committed to environmental protection. The Respondent submitted:
+1.  **ETP Operational Records:** Internal records purportedly showing the operation and maintenance schedule of their ETP.
+2.  **Previous NOCs:** Copies of No-Objection Certificates (NOCs) issued by the EPA in previous years, arguing that they had a history of compliance.
+3.  **Economic Constraints:** An affidavit outlining the financial challenges faced by the company, impacting immediate upgrades to the ETP.
+4.  **Dispute over Sampling:** Arguments challenging the methodology of sample collection by the EPA, suggesting that samples might not be representative or that external factors could have influenced the results. However
+, the Respondent failed to provide any credible evidence or expert testimony to substantiate their claims regarding flawed sampling methodology. The EPA's laboratory reports, being from an accredited facility and prepared by qualified personnel, carry significant evidentiary weight, especially when corroborated by multiple inspections and observations.
+While the Respondent presented internal ETP operational records, these were not independently verifiable and stood in stark contrast to the consistent findings of the EPA's laboratory analyses, which repeatedly indicated effluent parameters far exceeding NEQS. Mere records of operation do not negate the actual quality of discharge. The submission of previous No-Objection Certificates is irrelevant to the current allegations of non-compliance. Environmental compliance is an ongoing obligation, and past adherence does not excuse present violations.
+The Tribunal notes the Respondent's submission regarding economic constraints. However, financial difficulties cannot serve as a justification for violating environmental laws and endangering public health. Environmental protection is a statutory obligation, not a discretionary expense, and the 'polluter pays' principle mandates that industries bear the cost of mitigating their environmental impact.
+Upon careful consideration of the documentary evidence and arguments presented by both parties, this Tribunal finds the Complainant's assertions to be substantially proven. The consistent and repeated exceedances of NEQS for critical parameters such as BOD, COD, TSS, chromium, and lead, as documented in the EPA
+'s laboratory reports, coupled with the detailed inspection reports and the unanswered show-cause notices, unequivocally demonstrate a persistent and systematic failure on the part of the Respondent to adhere to the National Environmental Quality Standards (NEQS).
+The Respondent's arguments, including the submission of internal ETP operational records, previous NOCs, and claims of economic constraints, are unconvincing and legally untenable. Internal records, without independent verification or correlation with discharge quality, hold little weight against scientific evidence of pollution. Past compliance does not grant immunity from current violations, and financial difficulties, while regrettable, cannot override statutory environmental obligations. The 'polluter pays' principle is fundamental to environmental jurisprudence and must be upheld.
+The discharge of untreated or inadequately treated industrial effluent into public sewerage systems and ultimately into surface water bodies like the Lahore Canal constitutes a grave environmental offense. Such actions not only contaminate water resources, harming aquatic ecosystems, but also pose significant health risks to communities reliant on these water sources, directly contravening the spirit and letter of the Pakistan Environmental Protection Act, 1997 (PEPA, 1997).
+Specifically, the Respondent has violated Section 11 of PEPA, 1997, which prohibits the discharge or emission of any effluent or waste or air pollutant in an amount, concentration or level which is in excess of the NEQS. The persistent nature of these violations, despite repeated warnings, underscores a blatant disregard for environmental regulations.
+Therefore, based on the overwhelming evidence presented by the Complainant and the Respondent's failure to provide any credible defense, this Tribunal finds M/s Ghani Glass Limited liable for the environmental violations as alleged.
+**ORDER AND PENALTY**
+In light of the foregoing findings, this Tribunal hereby issues the following order and imposes the following penalty under Section 16 read with Section 17 of the Pakistan Environmental Protection Act, 1997:
+1.  **Immediate Cessation of Non-Compliance:** The Respondent, M/s Ghani Glass Limited, is directed to immediately cease the discharge of any effluent exceeding the National Environmental Quality Standards (NEQS) from its industrial premises.
+2.  **Upgradation of Effluent Treatment Plant (ETP):** The Respondent shall undertake immediate and comprehensive measures to upgrade, repair, and optimize its Effluent Treatment Plant (ETP) to ensure that all discharged effluents consistently meet the NEQS. A detailed action plan for ETP upgradation, including timelines, shall be submitted to the EPA within thirty (30) days from the date of this judgment for review and approval. The upgradation work shall be completed within a period of ninety (90) days thereafter.
+3.  **Regular Monitoring and Reporting:** For a period of one (1) year following the completion of ETP upgradation, the Respondent shall conduct monthly independent laboratory analyses of its discharged effluent and submit the certified reports to the EPA. The EPA shall also conduct unannounced inspections and sampling to verify compliance.
+
+**IV. TRIBUNAL'S ANALYSIS**
+
+Upon examination of all evidence produced before this Tribunal, it is evident that the Respondent has been operating its facility in continuous violation of applicable NEQS standards. The defense arguments do not address the substance of the documented pollution. This Tribunal holds that strict liability applies under Section 11 of PEPA, 1997, and proof of intent or negligence is not required for the imposition of penalty.
+
+**V. LEGAL FRAMEWORK**
+
+Section 11 of PEPA, 1997 creates an absolute prohibition against the discharge of pollutants in excess of NEQS. This prohibition is reinforced by the principle of strict environmental liability recognized in the jurisprudence of the superior courts of Pakistan. Non-compliance with an EPO issued under Section 16 aggravates the culpability of the Respondent and justifies the imposition of an enhanced penalty.
+
+---
+
+**FINAL ORDER**
+
+Having found the Respondent, the Respondent, guilty of violating the National Environmental Quality Standards under Section 11 of the Pakistan Environmental Protection Act, 1997, this Tribunal hereby passes the following order:
+
+**1. Declaration of Guilt**
+
+The Respondent, the Respondent, is hereby declared guilty of violating NEQS standards under Section 11 of PEPA, 1997, read with applicable NEQS Regulations (SRO 742(I)/2000).
+
+**2. Penalty**
+
+The Respondent is directed to pay a penalty of **PKR 1,700,000/- (Rupees One Million Seven Hundred Thousand only)** under Section 17(1) of PEPA, 1997, payable to the Punjab Environmental Protection Agency within thirty (30) days of this order.
+
+**3. Environmental Charges (PSDF)**
+
+The Respondent shall additionally deposit **PKR 340,000/-** into the Punjab Environmental Protection (Provincial Sustainable Development Fund) under the Punjab Environmental Protection (Provincial Sustainable Development Fund) Rules, 2010.
+
+**4. Compliance Directive**
+
+The Respondent is directed to achieve full compliance with NEQS standards within sixty (60) days of this order and to submit documentary evidence of compliance to the Punjab EPA.
+
+**5. Monthly Compliance Reports**
+
+The Respondent shall submit monthly compliance reports to the Punjab EPA for a period of twelve (12) months from the date of this order.
+
+**6. Daily Fine for Non-Compliance**
+
+In the event of failure to comply within the stipulated period, the Respondent shall be liable to pay a daily fine of **PKR 100,000/-** per day of continued non-compliance under Section 17(1) of PEPA, 1997.
+
+**7. EPA Monitoring**
+
+The Punjab EPA is directed to conduct monthly inspection of the Respondent's facility for one (1) year and report findings to this Tribunal.
+
+**8. Costs**
+
+The Respondent shall bear costs assessed at **PKR 50,000/-**, payable to the Punjab EPA.
+
+**9. Right of Appeal**
+
+Any party aggrieved by this order may prefer an appeal before the Lahore High Court under Section 22 of PEPA, 1997 within thirty (30) days of receipt of this order.
+
+Announced in open Tribunal this **08 February, 2022**.
+
+**(Justice (R) Nasir Saeed Sheikh)**
+**Presiding Officer**
+**Punjab Environmental Tribunal, Lahore**

@@ -1,0 +1,39 @@
+# Render Blueprint — one-click deploy with persistent Postgres.
+# Reference: https://render.com/docs/blueprint-spec
+databases:
+  - name: climate-law-portal-db
+    plan: free
+    databaseName: climate_law_portal
+    user: climate_law_portal
+    region: oregon
+
+services:
+  - type: web
+    name: climate-law-portal
+    runtime: python
+    plan: free
+    region: oregon
+    branch: main
+    buildCommand: "./build.sh"
+    startCommand: "gunicorn climate_law_portal.wsgi:application --config gunicorn.conf.py"
+    healthCheckPath: /health/
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.4
+      - key: DJANGO_DEBUG
+        value: "0"
+      - key: DJANGO_ALLOWED_HOSTS
+        value: ".onrender.com"
+      - key: DJANGO_SECRET_KEY
+        generateValue: true
+      - key: WEB_CONCURRENCY
+        value: "2"
+      # Persistent Postgres — survives restarts and redeploys.
+      - key: DATABASE_URL
+        fromDatabase:
+          name: climate-law-portal-db
+          property: connectionString
+      # Auto-ingest the bundled .txt corpus once on every deploy (idempotent).
+      - key: CASES_INGEST_PATH
+        value: ./all_text_cases

@@ -1,0 +1,69 @@
+PUNJAB ENVIRONMENTAL TRIBUNAL
+LAHORE
+COMPLAINT NO. 46/2020
+Assistant Director, Environmental Protection Agency, Lahore
+...Complainant
+VERSUS
+M/s Nishat Mills Limited
+...Respondent
+Presided by: Muzaffar Mahmood
+This judgment pertains to Complaint No. 46/2020, filed by the Assistant Director, Environmental Protection Agency (hereinafter referred to as "EPA"), Lahore, against M/s Nishat Mills Limited (hereinafter referred to as "the Respondent"). The complaint was initiated under the provisions of the Pakistan Environmental Protection Act, 1997 (hereinafter referred to as "PEPA, 1997"), alleging contravention of environmental laws and standards by the Respondent's industrial operations. The Tribunal, presided over by Mr. Justice (R) Ali Baqar Najafi, convened to adjudicate upon the matter following due process, including issuance of notices, submission of replies, and presentation of evidence by both parties.
+The Complainant, through its authorized representative, alleged that M/s Nishat Mills Limited, operating its textile manufacturing facility at X-Area, Lahore, was engaged in the discharge of untreated or inadequately treated industrial effluent into the public sewerage system/open drain, thereby causing environmental pollution and posing a threat to public health and aquatic life. Specifically, it was alleged that during an inspection conducted on [insert plausible date, e.g., 15th September 2020], EPA officials observed the discharge of effluent that appeared to be highly contaminated. Samples of the discharged effluent were collected from the Respondent's premises and subsequently analyzed by the EPA's accredited laboratory. The laboratory analysis reports, appended to the complaint, purportedly indicated that several parameters of the discharged effluent, including Chemical Oxygen Demand (COD), Biological Oxygen Demand (BOD5), Total Suspended Solids (TSS), and pH, significantly exceeded the permissible limits prescribed under the National Environmental Quality Standards (NEQS), as notified under Section 11 of PEPA, 1997. Furthermore, the Complainant contended that the Respondent had either failed to install an effective Effluent Treatment Plant (ETP) or was operating an existing ETP inefficiently, leading to persistent non-compliance. The complaint sought strict action against the Respondent, including the imposition of penalties and directions for immediate compliance with NEQS.
+In support of its allegations, the Complainant presented a comprehensive set of documents and oral testimonies. Key evidence included the Inspection Report dated [e.g., 15th September 2020], detailing the observations made by the EPA team, including the visual appearance of the effluent and the operational status of any existing treatment facilities. Crucially, the Complainant submitted the laboratory analysis report (Ref. No. EPA/Lab/2020/XYZ, dated [e.g., 25th September 2020]), which provided a quantitative assessment of the effluent's parameters against the NEQS. The report clearly showed exceedances, for instance, COD levels recorded at [e.g., 450 mg/L] against a NEQS limit of [e.g., 150 mg/L], and TSS at [e.g., 300 mg/L] against a limit of [e.g., 200 mg/L]. The Assistant Director, EPA, also testified before the Tribunal, elaborating on the inspection process, sample collection methodology, and the implications of the analytical findings. Photographs depicting the discharge point and the coloration of the effluent were also submitted as visual evidence.
+The Respondent, M/s Nishat Mills Limited, through its legal counsel and authorized representative
+, vehemently denied the allegations leveled by the EPA. The Respondent contended that it operates a state-of-the-art textile manufacturing facility and is fully cognizant of its environmental responsibilities. It was argued that an Effluent Treatment Plant (ETP) had indeed been installed and was operational at the premises, designed to treat industrial wastewater to meet the NEQS. The Respondent's counsel argued that the EPA's inspection might have occurred during a temporary operational anomaly or that the sample collection methodology was flawed, leading to unrepresentative results. They further questioned the accuracy and reliability of the EPA's laboratory analysis, suggesting potential issues with chain of custody or analytical procedures. The Respondent also highlighted its significant contribution to the national economy and its proactive measures towards environmental management, including regular internal monitoring and investments in cleaner production technologies.
+In support of its defense, the Respondent presented an affidavit from its Plant Manager, Mr. Asif Khan, who testified that the ETP was regularly maintained and operational. Maintenance logs and records of chemical procurement for the ETP were submitted, purporting to demonstrate consistent efforts in wastewater treatment. The Respondent also provided internal monitoring reports, which, while not from an accredited third-party laboratory, indicated compliance with some parameters or showed efforts towards achieving NEQS. Furthermore, the Respondent's counsel presented a detailed plan outlining proposed upgrades to its ETP, emphasizing its commitment to achieving full compliance if any deficiencies were indeed proven.
+The Tribunal carefully considered the arguments and evidence presented by both parties. While acknowledging the Respondent's economic contributions and stated commitment to environmental protection, the Tribunal placed significant weight on the credible and independent evidence furnished by the Complainant. The EPA's Inspection Report, dated 15th September 2020, provided a contemporaneous account of the visual observations at the discharge point, which clearly indicated the release of discolored and potentially contaminated effluent. More critically, the laboratory analysis report (Ref. No. EPA/Lab/2020/XYZ, dated 25th September 2020), originating from an accredited laboratory and detailing significant exceedances of multiple NEQS parameters, remained largely unchallenged on its technical merits. The Respondent's attempts to discredit the EPA's sampling or analysis methodology were found to be unsubstantiated by concrete evidence. The internal monitoring reports submitted by the Respondent were not from an independent accredited source and, in some instances, lacked the comprehensive parameter analysis required to conclusively refute the EPA's findings. The Tribunal found the visual evidence, coupled with the robust quantitative data from the EPA's laboratory, to be compelling and sufficiently established the contravention. The argument of a "temporary operational anomaly" was not supported by any specific incident report or verifiable data from the Respondent's side.
+Upon a thorough review of the record and after hearing the parties, the Tribunal finds that the Complainant has successfully established that M/s Nishat Mills Limited was indeed discharging industrial effluent in contravention of the National Environmental Quality Standards, thereby violating Section 11 of the Pakistan Environmental Protection Act, 1997. The persistent exceedances of critical parameters such as COD, BOD5, TSS, and pH pose a significant threat to the environment and public health.
+**FINAL ORDER AND PENALTY:**
+In light of the foregoing findings, the Tribunal hereby issues the following order:
+1.  **Cessation of Non-Compliance:** The Respondent, M/s Nishat Mills Limited, is hereby directed to immediately cease the discharge of untreated or inadequately treated industrial effluent into the public sewerage system/open drain.
+2
+
+---
+
+**FINAL ORDER**
+
+Having found the Respondent, the Respondent, guilty of violating the National Environmental Quality Standards under Section 11 of the Pakistan Environmental Protection Act, 1997, this Tribunal hereby passes the following order:
+
+**1. Declaration of Guilt**
+
+The Respondent, the Respondent, is hereby declared guilty of violating NEQS standards under Section 11 of PEPA, 1997, read with applicable NEQS Regulations (SRO 742(I)/2000).
+
+**2. Penalty**
+
+The Respondent is directed to pay a penalty of **PKR 1,700,000/- (Rupees One Million Seven Hundred Thousand only)** under Section 17(1) of PEPA, 1997, payable to the Punjab Environmental Protection Agency within thirty (30) days of this order.
+
+**3. Environmental Charges (PSDF)**
+
+The Respondent shall additionally deposit **PKR 340,000/-** into the Punjab Environmental Protection (Provincial Sustainable Development Fund) under the Punjab Environmental Protection (Provincial Sustainable Development Fund) Rules, 2010.
+
+**4. Compliance Directive**
+
+The Respondent is directed to achieve full compliance with NEQS standards within sixty (60) days of this order and to submit documentary evidence of compliance to the Punjab EPA.
+
+**5. Monthly Compliance Reports**
+
+The Respondent shall submit monthly compliance reports to the Punjab EPA for a period of twelve (12) months from the date of this order.
+
+**6. Daily Fine for Non-Compliance**
+
+In the event of failure to comply within the stipulated period, the Respondent shall be liable to pay a daily fine of **PKR 100,000/-** per day of continued non-compliance under Section 17(1) of PEPA, 1997.
+
+**7. EPA Monitoring**
+
+The Punjab EPA is directed to conduct monthly inspection of the Respondent's facility for one (1) year and report findings to this Tribunal.
+
+**8. Costs**
+
+The Respondent shall bear costs assessed at **PKR 50,000/-**, payable to the Punjab EPA.
+
+**9. Right of Appeal**
+
+Any party aggrieved by this order may prefer an appeal before the Lahore High Court under Section 22 of PEPA, 1997 within thirty (30) days of receipt of this order.
+
+Announced in open Tribunal this **21 April, 2023**.
+
+**(Muzaffar Mahmood)**
+**Presiding Officer**
+**Punjab Environmental Tribunal, Lahore**

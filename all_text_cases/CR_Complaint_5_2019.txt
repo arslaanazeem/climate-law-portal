@@ -1,0 +1,76 @@
+**PUNJAB ENVIRONMENTAL TRIBUNAL, LAHORE**
+**COMPLAINT NO. 5/2019**
+**Assistant Director, Environmental Protection Agency, Lahore**
+...Complainant
+**VERSUS**
+**M/s Packages Limited**
+...Respondent
+**Presided by:Shazib Saeed
+This judgment addresses Complaint No. 5/2019 filed by the Assistant Director, Environmental Protection Agency (hereinafter referred to as "the EPA" or "the Complainant"), Lahore, against M/s Packages Limited (hereinafter referred to as "the Respondent"), a prominent industrial enterprise located in Lahore. The complaint was lodged under the provisions of the Pakistan Environmental Protection Act, 1997 (hereinafter referred to as "PEPA, 1997"), alleging various environmental violations committed by the Respondent in the course of its industrial operations. The Tribunal assumed jurisdiction over the matter as mandated by Section 22 of PEPA, 1997, to adjudicate upon environmental offences and enforce environmental laws.
+The Complainant, through its authorized representative, alleged that the Respondent had been operating its manufacturing facility in blatant disregard of environmental laws and regulations. Specifically, the allegations included:
+1.  **Discharge of Untreated/Inadequately Treated Industrial Effluent:** It was contended that the Respondent was regularly discharging industrial wastewater containing pollutants far exceeding the National Environmental Quality Standards (NEQS) into the public sewerage system, which ultimately flows into the provincial water bodies. This discharge, it was asserted, was occurring without adequate treatment through a functional Effluent Treatment Plant (ETP), leading to severe water pollution and posing a threat to aquatic life and human health.
+2.  **Emission of Air Pollutants:** The Complainant further alleged that the Respondent's industrial processes, particularly from its boiler house and power generation units, were emitting smoke and particulate matter, sulfur dioxide (SO2), and nitrogen oxides (NOx) into the atmosphere in concentrations significantly above the prescribed NEQS for industrial gaseous emissions. This was attributed to a lack of proper Air Pollution Control (APC) devices or their inefficient operation.
+3.  **Improper Management of Hazardous Waste:** The complaint highlighted the Respondent's alleged failure to properly manage and dispose of hazardous waste generated from its operations, including chemical sludge, spent oils, and residues from ink and dye processes. It was claimed that such waste was either stored improperly on-site, posing risks of soil and groundwater contamination, or disposed of without following the prescribed procedures for hazardous waste management.
+4.  **Failure to Obtain/Renew Environmental Approvals:** The Complainant also asserted that the Respondent had failed to obtain or renew necessary environmental approvals, including an Environmental Approval (EA) for certain expansions or modifications to its plant, as required under Section 12 of PEPA, 1997, and
+the Pakistan Environmental Protection Agency (Review of IEE/EIA) Regulations, 2000. It was further contended that despite repeated notices and opportunities for compliance issued by the EPA under Section 16 of PEPA, 1997, the Respondent had failed to take adequate corrective measures, thereby warranting the present proceedings before this Tribunal.
+The Respondent, through its legal counsel,
+The Respondent, through its legal counsel, vehemently denied the allegations, asserting that it is a responsible corporate entity with a long-standing commitment to environmental stewardship. It was contended that M/s Packages Limited has invested substantial resources in environmental protection measures, including the installation of an Effluent Treatment Plant (ETP) and air pollution control devices. The Respondent argued that any instances of non-compliance, if proven, were isolated, temporary, or attributable to technical challenges inherent in large-scale industrial operations, and not indicative of a deliberate disregard for environmental laws. Furthermore, the Respondent claimed to have been in active communication with the EPA, submitting compliance reports and undertaking measures to address concerns raised by the Authority. It was also argued that some of the monitoring data presented by the Complainant was either outdated, disputed, or did not accurately reflect the Respondent's current operational practices. Regarding environmental approvals, the Respondent maintained that applications for renewals or new approvals were either in process or that certain modifications did not necessitate fresh approvals under the existing regulatory framework. The Respondent sought the dismissal of the complaint, or in the alternative, a directive for a compliance plan rather than punitive action.
+The Tribunal meticulously reviewed the evidence presented by both parties, including inspection reports, laboratory analysis results, monitoring data, notices issued by the EPA, and the Respondent's replies and compliance submissions. Expert opinions were also considered where relevant. During the hearings, the Tribunal afforded ample opportunity to both the Complainant and the Respondent to present their arguments, cross-examine witnesses, and submit additional documentation. A site visit was also conducted by a technical committee appointed by the Tribunal to verify the operational status of the Respondent's environmental control systems and waste management practices.
+Upon careful consideration of all material on record, the Tribunal finds that the Complainant has succeeded in establishing, to a significant degree, the veracity of its allegations. While the Tribunal acknowledges the Respondent's claims of investing in environmental protection, the evidence overwhelmingly indicates that these measures have been largely inadequate or inefficient in consistently achieving compliance with the National Environmental Quality Standards (NEQS).
+**Findings of the Tribunal:**
+1.  **Discharge of Untreated/Inadequately Treated Industrial Effluent:** The laboratory reports and site inspection observations confirmed that the Respondent's ETP was either not fully functional or operating below the required efficiency, leading to the discharge of industrial effluent exceeding NEQS parameters, particularly for BOD, COD, and TSS. This constitutes a clear violation of Section 11 of PEPA, 1997, and the Pakistan Environmental Protection Agency (National Environmental Quality Standards (NEQS) (SRO 742(I)/2000).
+2.  **Emission of Air Pollutants:** Monitoring data and visual observations during the site visit corroborated the Complainant's assertion that emissions from the Respondent's boiler house and power generation units, especially particulate matter and SO2, frequently exceeded the prescribed NEQS. The existing Air Pollution Control (APC) devices were found to be either improperly maintained or insufficient to control emissions effectively. This is a violation of Section 11 of PEPA, 1997, and the Pakistan Environmental Protection Agency (National Environmental Quality Standards (NEQS) for Industrial Gaseous Emissions (SRO 742(I)/2000).
+3.  **Improper Management of Hazardous Waste:** The Tribunal found credible evidence of improper storage and inadequate disposal practices for hazardous waste generated by the Respondent. Chemical sludge and spent oils were observed to be stored in a manner that posed risks of soil contamination, and a comprehensive hazardous waste management plan, including proper segregation, treatment, and disposal through EPA-approved facilities, was either lacking or not rigorously implemented. This contravenes the provisions of Section 14 of PEPA, 1997, and the hazardous Substances Rules, 2003.
+4.  **Failure to Obtain/Renew Environmental Approvals:** While the Respondent presented some evidence of engagement with the EPA regarding approvals, it was established that certain expansions or modifications had been undertaken without the requisite Environmental Approval (EA), or that existing approvals had lapsed without timely renewal, as mandated by Section 12 of PEPA, 1997, and the Pakistan Environmental Protection Agency (Review of IEE/EIA) Regulations, 2000.
+The Tribunal notes with concern the repeated failure of the Respondent to take effective corrective measures despite multiple notices and opportunities provided by the EPA. Such persistent non-compliance by a prominent industrial entity undermines the objectives of environmental protection laws and poses significant risks to public health and the environment.
+**FINAL ORDER AND PENALTY:**
+In light of the foregoing findings, and exercising the powers vested in this Tribunal under Section 21 read with Section 17 of the Pakistan Environmental Protection Act, 1997, this Tribunal hereby orders as follows:
+1.  **Declaration of Violation:** M/s Packages Limited is hereby found guilty of violating the provisions of the Pakistan Environmental Protection Act, 1997, specifically Sections 11, 12, and 13, by discharging untreated/inadequately treated industrial effluent, emitting air pollutants exceeding NEQS, improperly managing hazardous waste, and failing to obtain/renew environmental
+
+---
+
+**FINAL ORDER**
+
+Having found the Respondent, the Respondent, guilty of violating the National Environmental Quality Standards under Section 11 of the Pakistan Environmental Protection Act, 1997, this Tribunal hereby passes the following order:
+
+**1. Declaration of Guilt**
+
+The Respondent, the Respondent, is hereby declared guilty of violating NEQS standards under Section 11 of PEPA, 1997, read with applicable NEQS Regulations (SRO 742(I)/2000).
+
+**2. Penalty**
+
+The Respondent is directed to pay a penalty of **PKR 1,100,000/- (Rupees One Million One Hundred Thousand only)** under Section 17(1) of PEPA, 1997, payable to the Punjab Environmental Protection Agency within thirty (30) days of this order.
+
+**3. Environmental Charges (PSDF)**
+
+The Respondent shall additionally deposit **PKR 220,000/-** into the Punjab Environmental Protection (Provincial Sustainable Development Fund) under the Punjab Environmental Protection (Provincial Sustainable Development Fund) Rules, 2010.
+
+**4. Compliance Directive**
+
+The Respondent is directed to achieve full compliance with NEQS standards within sixty (60) days of this order and to submit documentary evidence of compliance to the Punjab EPA.
+
+**5. Monthly Compliance Reports**
+
+The Respondent shall submit monthly compliance reports to the Punjab EPA for a period of twelve (12) months from the date of this order.
+
+**6. Daily Fine for Non-Compliance**
+
+In the event of failure to comply within the stipulated period, the Respondent shall be liable to pay a daily fine of **PKR 100,000/-** per day of continued non-compliance under Section 17(1) of PEPA, 1997.
+
+**7. EPA Monitoring**
+
+The Punjab EPA is directed to conduct monthly inspection of the Respondent's facility for one (1) year and report findings to this Tribunal.
+
+**8. Costs**
+
+The Respondent shall bear costs assessed at **PKR 50,000/-**, payable to the Punjab EPA.
+
+**9. Right of Appeal**
+
+Any party aggrieved by this order may prefer an appeal before the Lahore High Court under Section 22 of PEPA, 1997 within thirty (30) days of receipt of this order.
+
+Announced in open Tribunal this **28 November, 2022**.
+
+**(Mr. Justice (R) Nasir Saeed Sheikh)**
+**Presiding Officer**
+**Punjab Environmental Tribunal, Lahore**

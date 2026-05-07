@@ -1,0 +1,85 @@
+**PUNJAB ENVIRONMENTAL TRIBUNAL, LAHORE**
+**COMPLAINT NO. 48/2023**
+**Assistant Director, Environmental Protection Agency, Lahore**
+...Complainant
+**VERSUS**
+**M/s Packages Limited**
+...Respondent
+**Presided by: Justice (R) Chaudhry Muhammad Iqbal**
+***
+This judgment addresses the complaint filed by the Assistant Director, Environmental Protection Agency (hereinafter referred to as "the Complainant" or "EPA"), Lahore, against M/s Packages Limited (hereinafter referred to as "the Respondent"), seeking adjudication and imposition of penalties for alleged violations of environmental laws and regulations. The Tribunal, constituted under Section 19 of the Pakistan Environmental Protection Act, 1997 (hereinafter referred to as "PEPA, 1997"), has jurisdiction to hear and decide complaints concerning environmental pollution and non-compliance with environmental standards within its territorial limits. The present proceedings commenced upon the formal filing of the complaint by the EPA, detailing specific environmental infractions attributed to the Respondent's industrial operations.
+The Complainant alleged that M/s Packages Limited, an industrial enterprise engaged in the manufacturing of paper, packaging materials, and related products, was found to be in persistent violation of various provisions of the PEPA, 1997, and the National Environmental Quality Standards (NEQS). Specifically, the allegations included: (i) discharge of industrial effluent into the municipal sewerage system and ultimately into surface waters without adequate treatment, resulting in parameters exceeding the prescribed NEQS for Chemical Oxygen Demand (COD), Biological Oxygen Demand (BOD5), Total Suspended Solids (TSS), and pH; (ii) emission of air pollutants, particularly particulate matter (PM) and oxides of nitrogen (NOx), from its boiler stacks exceeding the NEQS, as observed during multiple monitoring visits; (iii) failure to install and operate appropriate pollution control devices commensurate with the scale of its industrial operations, or to maintain existing ones effectively; (iv) non-compliance with the directives issued by the EPA for submission of a comprehensive Environmental Management Plan (EMP) and regular self-monitoring reports; and (v) operating without a valid No Objection Certificate (NOC) for its recent expansion project, thereby contravening the requirements of Section 12 of PEPA, 1997, which mandates an Environmental Impact Assessment (EIA) or Initial Environmental Examination (IEE) for new projects or expansions. The EPA contended that despite repeated warnings, show-cause notices, and opportunities for rectification, the Respondent failed to take substantive measures to abate pollution and achieve compliance.
+To substantiate its allegations, the Complainant presented a comprehensive array of evidence. This included multiple inspection reports dated 15.03.2023, 28.04.2023, and 10.06.2023, prepared by EPA field teams, detailing observations of environmental non-compliance. Crucially, laboratory analysis reports from the EPA-accredited laboratory were submitted, showing effluent samples collected from the Respondent's discharge points on 15.03.2023 and 10.06.2023, significantly exceeding NEQS for COD (e.g., 350 mg/L against a standard of 200 mg/L), BOD5 (e.g., 200 mg/L against a standard of 80 mg/L), and TSS (e.g., 250 mg/L against a standard of 200 mg/L). Air emission monitoring reports from 28.04.2023 indicated particulate matter concentrations of 700 mg/Nm³ against a standard of 600 mg/Nm³ and NOx levels of 550 mg/Nm³ against a standard of 400 mg/Nm³. Photographic evidence depicting visible emissions from stacks and discolored effluent discharge was also placed on record. Furthermore, copies of show-cause notices issued to the Respondent on 20.03.2023 and 0
+5.05.2023, along with reminders and a final warning letter dated 25.06.2023, were submitted, demonstrating the EPA's consistent efforts to secure compliance prior to initiating formal proceedings.
+In response to the complaint, the Respondent, M/s Packages Limited, submitted a written statement and presented arguments through its legal counsel. The Respondent denied the allegations of persistent non-compliance, asserting that it is a responsible industrial entity with a substantial investment in environmental protection infrastructure, including an Effluent Treatment Plant (ETP) and air pollution control devices. They contended that any exceedances noted by the EPA were isolated incidents, potentially attributable to temporary operational upsets, maintenance activities, or variations in raw material quality, rather than a systemic failure to comply. The Respondent also questioned the methodology and calibration of the EPA's monitoring equipment and the chain of custody for the collected samples, suggesting that the results might not accurately reflect their routine performance. Furthermore, they claimed to be in the process of upgrading their ETP and installing more advanced air emission control systems, which require time for procurement, installation, and commissioning. Regarding the alleged expansion without an NOC, the Respondent argued that the project constituted a minor modification or optimization of existing processes, not warranting a full Environmental Impact Assessment (EIA) or Initial Environmental Examination (IEE) under Section 12 of PEPA, 1997, or that the application for an NOC was still under process with the EPA. They emphasized their significant contribution to the national economy and employment, urging the Tribunal to consider these factors and grant them additional time to achieve full compliance.
+The Tribunal meticulously reviewed the evidence presented by both parties and heard arguments from their respective counsels. It notes that the Complainant's evidence, comprising multiple inspection reports, laboratory analysis reports from an accredited laboratory, and photographic documentation, consistently demonstrated environmental violations over several months. The laboratory reports provided clear, quantifiable data showing effluent discharge and air emissions well above the prescribed NEQS. The Respondent's assertion of "isolated incidents" or "temporary upsets" is undermined by the repeated nature of the documented violations across different dates and parameters. While the Tribunal acknowledges the Respondent's claims of investing in pollution control, the efficacy of such investments must be reflected in tangible compliance with environmental standards, which has evidently not been the case. The failure to submit a comprehensive EMP and regular self-monitoring reports, despite repeated directives, indicates a reactive rather than proactive approach to environmental management. Moreover, the argument regarding the NOC for expansion is unconvincing. Section 12 of PEPA, 1997, clearly mandates an EIA/IEE for new projects and expansions, and operating without such a certificate constitutes a fundamental breach of environmental law, designed to prevent environmental degradation at the planning stage. The Tribunal finds no credible evidence to suggest that the EPA's sampling or analysis methodology was flawed or that the chain of custody was compromised. The burden was on the Respondent to demonstrate effective compliance or to convincingly rebut the
+strong evidence presented by the Complainant. The Tribunal is satisfied that the Complainant has discharged its burden of proof, establishing beyond reasonable doubt that the Respondent, M/s Packages Limited, has indeed been in persistent violation of environmental laws and regulations.
+Specifically, the Respondent has contravened:
+*   **Section 11 of PEPA, 1997:** By discharging effluent and emitting air pollutants exceeding the NEQS, thereby causing pollution.
+*   **Section 12 of PEPA, 1997:** By undertaking an expansion project without obtaining the requisite No Objection Certificate (NOC) after conducting an Environmental Impact Assessment (EIA) or Initial Environmental Examination (IEE).
+*   **Section 13 of PEPA, 1997:** By failing to comply with the directions issued by the EPA for submission of an EMP and self-monitoring reports, and for taking measures to prevent or control pollution.
+*   **Rule 15 of the National Environmental Quality Standards (Self-Monitoring and Reporting by Industry) Rules, 2001:** By failing to submit regular self-monitoring reports.
+Therefore, after careful deliberation and considering all facts and circumstances, this Tribunal finds M/s Packages Limited liable for the environmental infractions as alleged by the Assistant Director, Environmental Protection Agency, Lahore.
+**ORDER**
+In light of the foregoing findings, the Tribunal hereby issues the following order:
+1.  **Cessation of Violations:** M/s Packages Limited is directed to immediately cease all activities that result in the discharge of untreated or inadequately treated effluent and the emission of air pollutants exceeding the National Environmental Quality Standards (NEQS).
+2.  **Upgradation and Installation of Pollution Control Devices:** The Respondent shall, within **one hundred and twenty (120) days** from the date of this judgment, complete the upgrade of its Effluent Treatment Plant (ETP) to ensure that all discharged effluent consistently meets the prescribed NEQS. Furthermore, it shall install and commission appropriate air pollution control devices for its boiler stacks to ensure that all air emissions, particularly particulate matter and oxides of nitrogen, consistently comply with the NEQS. The Respondent shall submit a detailed action plan for these upgrades and installations to the EPA within **thirty (30) days**.
+3.  **Environmental Management Plan (EMP) and Self-Monitoring:** The Respondent is directed to submit a comprehensive Environmental Management Plan (EMP) to the EPA within **sixty (60) days**, outlining proactive measures for pollution prevention, control, and mitigation. Concurrently, the Respondent shall commence submitting regular self-monitoring reports to the EPA on a quarterly basis, as per the National Environmental Quality Standards (Self-Monitoring and Reporting by Industry) Rules, 2001, utilizing an EPA-accredited laboratory for analysis.
+4.  **No Objection Certificate (NOC) for Expansion:** The Respondent shall immediately apply for and diligently pursue the issuance of a valid No Objection Certificate (NOC) for its recent expansion project, in full compliance with the requirements of Section 12 of PEPA, 1997, including the submission of an Environmental Impact Assessment (EIA) or Initial Environmental Examination (IEE) report, as determined by the EPA.
+5.  **Penalty:** For the persistent violations of the Pakistan Environmental Protection Act, 1997, and the National Environmental Quality Standards, the Tribunal hereby imposes a penalty of **Rupees Five Million (PKR 5,000,000/-)** upon M
+
+**IV. TRIBUNAL'S ANALYSIS**
+
+The evidence presented by the Punjab EPA is comprehensive, consisting of original inspection reports signed by authorized officers, certified laboratory analyses, and photographic documentation of pollution discharge. This Tribunal finds that the Complainant has discharged its evidentiary burden and the pollution violations are proven. The Respondent's argument that samples were not collected in its presence is not supported by the record and is accordingly rejected.
+
+**V. LEGAL FRAMEWORK**
+
+Section 11 of PEPA, 1997 imposes strict liability upon any person who discharges or emits, or allows the discharge or emission of, any effluent, waste, air pollutant or noise in excess of NEQS. The Respondent's industrial activity falls squarely within this prohibition. Proof of intent is not required; the act of pollution itself attracts penal consequences under Section 17(1) of PEPA, 1997.
+
+---
+
+**FINAL ORDER**
+
+Having found the Respondent, the Respondent, guilty of violating the National Environmental Quality Standards under Section 11 of the Pakistan Environmental Protection Act, 1997, this Tribunal hereby passes the following order:
+
+**1. Declaration of Guilt**
+
+The Respondent, the Respondent, is hereby declared guilty of violating NEQS standards under Section 11 of PEPA, 1997, read with applicable NEQS Regulations (SRO 742(I)/2000).
+
+**2. Penalty**
+
+The Respondent is directed to pay a penalty of **PKR 1,400,000/- (Rupees One Million Four Hundred Thousand only)** under Section 17(1) of PEPA, 1997, payable to the Punjab Environmental Protection Agency within thirty (30) days of this order.
+
+**3. Environmental Charges (PSDF)**
+
+The Respondent shall additionally deposit **PKR 280,000/-** into the Punjab Environmental Protection (Provincial Sustainable Development Fund) under the Punjab Environmental Protection (Provincial Sustainable Development Fund) Rules, 2010.
+
+**4. Compliance Directive**
+
+The Respondent is directed to achieve full compliance with NEQS standards within sixty (60) days of this order and to submit documentary evidence of compliance to the Punjab EPA.
+
+**5. Monthly Compliance Reports**
+
+The Respondent shall submit monthly compliance reports to the Punjab EPA for a period of twelve (12) months from the date of this order.
+
+**6. Daily Fine for Non-Compliance**
+
+In the event of failure to comply within the stipulated period, the Respondent shall be liable to pay a daily fine of **PKR 100,000/-** per day of continued non-compliance under Section 17(1) of PEPA, 1997.
+
+**7. EPA Monitoring**
+
+The Punjab EPA is directed to conduct monthly inspection of the Respondent's facility for one (1) year and report findings to this Tribunal.
+
+**8. Costs**
+
+The Respondent shall bear costs assessed at **PKR 50,000/-**, payable to the Punjab EPA.
+
+**9. Right of Appeal**
+
+Any party aggrieved by this order may prefer an appeal before the Lahore High Court under Section 22 of PEPA, 1997 within thirty (30) days of receipt of this order.
+
+Announced in open Tribunal this **21 August, 2023**.
+
+**(Justice (R) Chaudhry Muhammad Iqbal)**
+**Presiding Officer**
+**Punjab Environmental Tribunal, Lahore**

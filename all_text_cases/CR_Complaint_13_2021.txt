@@ -1,0 +1,79 @@
+**PUNJAB ENVIRONMENTAL TRIBUNAL, LAHORE**
+**COMPLAINT NO. 13/2021**
+**Assistant Director, Environmental Protection Agency, Lahore**
+...Complainant
+**VERSUS**
+**M/s Sapphire Fibres Limited**
+...Respondent
+**Presided by: Muhammad Irfan**
+This judgment addresses a complaint filed by the Assistant Director, Environmental Protection Agency (EPA), Lahore, against M/s Sapphire Fibres Limited, alleging persistent non-compliance with environmental laws and standards. The complaint, registered on March 15, 2021, seeks the imposition of penalties and directions for remedial actions against the Respondent for causing environmental pollution, specifically through the discharge of untreated industrial effluent and uncontrolled air emissions, in contravention of the Pakistan Environmental Protection Act, 1997, and the National Environmental Quality Standards (NEQS). The Respondent, a prominent textile manufacturing unit located in an industrial area within the jurisdiction of Lahore, has been under the EPA's monitoring for a considerable period due to recurrent reports and observations of environmental degradation attributed to its operations.
+The Complainant, through its legal counsel, Mr. Asif Mehmood, Advocate, alleged that M/s Sapphire Fibres Limited has consistently failed to comply with environmental regulations despite repeated warnings and notices. Specifically, the allegations include: (a) Discharge of industrial effluent containing parameters far exceeding the prescribed NEQS into the public sewerage system/drain without adequate treatment, thereby polluting water bodies and posing a threat to public health and aquatic life. Laboratory analysis reports repeatedly indicated high levels of Chemical Oxygen Demand (COD), Biological Oxygen Demand (BOD), Total Suspended Solids (TSS), and various heavy metals. (b) Emissions of hazardous air pollutants from its industrial processes, particularly from its boilers and processing units, without proper stack monitoring and emission control devices, leading to ambient air quality deterioration. (c) Improper management and disposal of hazardous waste generated during its manufacturing processes, including sludge from its effluent treatment plant (ETP), dyeing chemicals, and other process waste, in violation of the Hazardous Substances Rules, 2003. (d) Operating its industrial processes without a fully functional and compliant Effluent Treatment Plant (ETP) and Air Pollution Control Devices (APCDs), despite having been issued an Environmental Approval (NOC) subject to specific conditions related to environmental performance. (e) Failure to submit regular self-monitoring reports as required under the Self-Monitoring and Reporting by Industries Rules, 1994, hindering the EPA's oversight and assessment of compliance. A show-cause notice bearing reference No. EPA/LHR/ENF/2021/007 dated February 10, 2021, was issued to the Respondent, to which the reply received was deemed unsatisfactory by the Complainant, necessitating the filing of the present complaint before this Tribunal.
+To substantiate its allegations, the Complainant presented a robust body of evidence. This included multiple inspection reports dated October 12, 2020, December 01, 2020, and January 20, 2021, conducted by EPA teams, which consistently highlighted deficiencies in the Respondent's ETP operations and observed visible signs of pollution. Crucially, laboratory analysis reports from EPA-accredited laboratories, bearing reference numbers EPA/Lab/WTR/2020/456, EPA/Lab/WTR/2020/512, and EPA/Lab/AIR/2021/034, were submitted. These reports unequivocally demonstrated that effluent samples collected from the Respondent's discharge point consistently exceeded NEQS for COD (up to 450 mg/L against a standard of 200 mg/L), BOD (up to 200 mg/L against a standard of 80 mg/L), and TSS (up to 300 mg/L against a standard of 200 mg/L), among other parameters. Air emission samples also indicated exceedances for Particulate Matter. The Complainant also produced the show-cause notice issued to the Respondent and the Respondent's subsequent reply dated February 20, 2021, which, while acknowledging some operational issues, failed to provide concrete evidence of immediate and sustained corrective actions. The testimony of Mr. Ahmed Khan, Assistant Director (Technical) EPA, who personally conducted several inspections and oversaw the sampling process, corroborated the documentary evidence. He testified that despite repeated verbal and written communications, the Respondent had not implemented effective pollution control measures.
+The Respondent, represented by Mr. Salman Ali, Advocate, vehemently denied the allegations, contending that it is a responsible corporate entity committed to environmental stewardship. The Respondent's defence primarily revolved around claims of ongoing efforts to upgrade its ETP and APCDs. They produced invoices for the purchase of new ETP components and a timeline for their
+installation, projecting completion within six months. They argued that the textile industry faces significant challenges in achieving zero discharge and that their efforts demonstrate a genuine commitment to environmental improvement. Mr. Ali emphasized that the Respondent had invested substantially in environmental infrastructure over the years and that the alleged non-compliances were temporary aberrations, not systemic failures. He also contended that some parameters, while exceeding NEQS, were not acutely hazardous
+, and that the Respondent was actively working towards full compliance. They requested the Tribunal to consider their investments and grant a reasonable timeframe for the complete upgrade and operationalization of their environmental control infrastructure, rather than imposing immediate harsh penalties that could jeopardize their business operations and employment.
+**Tribunal's Findings and Analysis:**
+The Tribunal has carefully considered the arguments presented by both the Complainant and the Respondent, along with the extensive documentary evidence and testimonies. While the Tribunal acknowledges the Respondent's claims of ongoing efforts and investments in environmental infrastructure, these claims are significantly overshadowed by the consistent and compelling evidence of persistent non-compliance presented by the Complainant.
+The laboratory analysis reports, repeatedly showing effluent parameters far exceeding the prescribed NEQS, and the inspection reports detailing operational deficiencies in the ETP, constitute irrefutable proof of environmental degradation caused by M/s Sapphire Fibres Limited. The argument that some parameters were "not acutely hazardous" does not absolve the Respondent of its legal obligation to meet the NEQS, which are established to protect the environment and public health from both acute and cumulative impacts of pollution. The Pakistan Environmental Protection Act, 1997, and its subsidiary rules, are designed to ensure adherence to these standards, not merely to address immediate acute threats.
+Furthermore, the Respondent's reply to the show-cause notice, while acknowledging issues, failed to provide concrete evidence of immediate and sustained corrective actions. The projected timeline for ETP upgrades, extending to six months, indicates a continued period of non-compliance, which is unacceptable given the history of warnings and the clear environmental impact. The law requires proactive compliance, not reactive promises after repeated violations have been documented. The failure to submit regular self-monitoring reports further demonstrates a lack of transparency and commitment to environmental accountability.
+The Tribunal finds that the Complainant, the Assistant Director, Environmental Protection Agency, Lahore, has successfully discharged its burden of proof, establishing beyond reasonable doubt that M/s Sapphire Fibres Limited has persistently contravened the provisions of the Pakistan Environmental Protection Act, 1997, and the National Environmental Quality Standards, specifically regarding the discharge of untreated industrial effluent, uncontrolled air emissions, and improper waste management. The Respondent's actions constitute a clear violation of Sections 11, 12, 13, and 14 of the PEPA, 1997, read with the relevant rules and NEQS.
+**Final Order and Penalty:**
+In light of the foregoing findings, and exercising the powers vested in this Tribunal under Section 17 of the Pakistan Environmental Protection Act, 1997, it is hereby ordered as follows:
+1.  **Declaration of Guilt:** M/s Sapphire Fibres Limited (the Respondent) is hereby found guilty of persistent non-compliance with the Pakistan Environmental Protection Act, 1997, and the National Environmental Quality Standards, as detailed in the complaint.
+2.  **Monetary Penalty:** A penalty of **PKR 1,000,000/- (Rupees One Million Only)** is imposed on M/s Sapphire Fibres Limited, payable to the Environmental Protection Agency, Punjab, within **thirty (30) days** from the date of this order. In addition to this, a further penalty of **PKR 50,000/- (Rupees Fifty Thousand Only)** shall be imposed for each day the contravention continues beyond thirty (30) days from the date of this order, until full compliance is achieved and verified by the Complainant.
+3.  **Remedial Directions:** M/s Sapphire Fibres Limited is directed to undertake the following remedial actions forthwith:
+    a.  **Immediate Compliance:** Ensure that its Effluent Treatment Plant (ETP) and Air Pollution Control Devices (APCDs) are immediately upgraded, made fully operational, and maintained to consistently meet all parameters of the National Environmental Quality Standards (NEQS) for both effluent discharge and air emissions.
+    b.  **Compliance Plan:** Submit a comprehensive and time-bound environmental compliance plan, including detailed timelines for the complete upgrade and operationalization of its ETP and APCDs, and proper hazardous waste management protocols, to the Environmental Protection Agency, Lahore, within **fifteen (15) days** from the date of this order. This plan must demonstrate how the Respondent will achieve and maintain full compliance with NEQS.
+    c.  **Regular Monitoring & Reporting:** Commence submitting weekly self-monitoring reports, duly certified by an EPA-accredited laboratory, for both effluent discharge and air emissions, to the Environmental Protection Agency, Lahore, for a period of **six (6) months**, commencing from the date of submission of the compliance plan. Thereafter, reporting shall revert to monthly, or as deemed appropriate by the EPA based on compliance performance.
+    d.  **Prohibition of Discharge/Emissions:** The Respondent is strictly prohibited from discharging any untreated or inadequately treated industrial effluent into the public sewerage system/drain or emitting hazardous air pollutants without proper treatment, in contravention of NEQS.
+    e.  **Hazardous Waste Management:** Develop and implement a robust plan for the proper collection, storage, treatment, and disposal of all hazardous waste generated from its operations, in strict accordance with the Hazardous Substances Rules, 2003, and submit details of this plan to the EPA within **thirty (30) days**.
+4.  **Monitoring by EPA:** The Environmental Protection Agency, Lahore, is directed to rigorously monitor the Respondent's compliance with these directions and the NEQS. The EPA shall conduct unannounced inspections and sampling at least once every two weeks for the next six months and report back to this Tribunal on the progress of compliance every two months.
+5.  **Consequence of Continued Non-Compliance:** Failure to comply with any part of this order, particularly the remedial directions and payment of the monetary penalty, shall result in further legal action, which may include the issuance of an Environmental Protection Order (EPO) under Section 16 of the PEPA,
+
+---
+
+**FINAL ORDER**
+
+Having found the Respondent, the Respondent, guilty of violating the National Environmental Quality Standards under Section 11 of the Pakistan Environmental Protection Act, 1997, this Tribunal hereby passes the following order:
+
+**1. Declaration of Guilt**
+
+The Respondent, the Respondent, is hereby declared guilty of violating NEQS standards under Section 11 of PEPA, 1997, read with applicable NEQS Regulations (SRO 742(I)/2000).
+
+**2. Penalty**
+
+The Respondent is directed to pay a penalty of **PKR 1,400,000/- (Rupees One Million Four Hundred Thousand only)** under Section 17(1) of PEPA, 1997, payable to the Punjab Environmental Protection Agency within thirty (30) days of this order.
+
+**3. Environmental Charges (PSDF)**
+
+The Respondent shall additionally deposit **PKR 280,000/-** into the Punjab Environmental Protection (Provincial Sustainable Development Fund) under the Punjab Environmental Protection (Provincial Sustainable Development Fund) Rules, 2010.
+
+**4. Compliance Directive**
+
+The Respondent is directed to achieve full compliance with NEQS standards within sixty (60) days of this order and to submit documentary evidence of compliance to the Punjab EPA.
+
+**5. Monthly Compliance Reports**
+
+The Respondent shall submit monthly compliance reports to the Punjab EPA for a period of twelve (12) months from the date of this order.
+
+**6. Daily Fine for Non-Compliance**
+
+In the event of failure to comply within the stipulated period, the Respondent shall be liable to pay a daily fine of **PKR 100,000/-** per day of continued non-compliance under Section 17(1) of PEPA, 1997.
+
+**7. EPA Monitoring**
+
+The Punjab EPA is directed to conduct monthly inspection of the Respondent's facility for one (1) year and report findings to this Tribunal.
+
+**8. Costs**
+
+The Respondent shall bear costs assessed at **PKR 50,000/-**, payable to the Punjab EPA.
+
+**9. Right of Appeal**
+
+Any party aggrieved by this order may prefer an appeal before the Lahore High Court under Section 22 of PEPA, 1997 within thirty (30) days of receipt of this order.
+
+Announced in open Tribunal this **17 August, 2023**.
+
+**(Muhammad Irfan)**
+**Presiding Officer**
+**Punjab Environmental Tribunal, Lahore**

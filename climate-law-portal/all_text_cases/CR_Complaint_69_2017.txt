@@ -1,0 +1,77 @@
+**PUNJAB ENVIRONMENTAL TRIBUNAL, LAHORE**
+**COMPLAINT NO. 69/2017**
+**Assistant Director, Environmental Protection Agency, Lahore**
+...Complainant
+**VERSUS**
+**M/s Ittehad Chemicals Limited**
+...Respondent
+**Presided by: Justice (R) Nasir Saeed Sheikh**
+**JUDGMENT**
+This judgment addresses Complaint No. 69/2017, filed by the Assistant Director, Environmental Protection Agency (hereinafter referred to as "the EPA" or "the Complainant"), Lahore, against M/s Ittehad Chemicals Limited (hereinafter referred to as "the Respondent"), a chemical manufacturing facility located in Kala Shah Kaku, District Sheikhupura. The complaint seeks enforcement of environmental laws and imposition of penalties for alleged violations of the Pakistan Environmental Protection Act, 1997 (hereinafter referred to as "PEPA, 1997") and the National Environmental Quality Standards (hereinafter referred to as "NEQS").
+The Complainant, through its authorized officer, presented that M/s Ittehad Chemicals Limited, being a large-scale industrial unit involved in the production of various chemicals, is statutorily bound to comply with the environmental standards prescribed under PEPA, 1997, and its allied rules and regulations. The EPA received multiple public complaints regarding foul smell, air pollution, and discharge of untreated industrial effluent from the Respondent's premises into local water bodies, adversely affecting the surrounding environment and public health. Pursuant to these complaints and as part of its routine monitoring activities, EPA officials conducted several inspections of the Respondent's facility. It was specifically alleged that on 15.03.2017, an inspection team from the EPA, Lahore, visited the Respondent's plant. During this visit, samples of industrial effluent discharged from the factory's primary outlet and gaseous emissions from its main stack were collected in the presence of the Respondent's representatives. These samples were subsequently analyzed at the EPA's accredited laboratory. The laboratory analysis reports, dated 28.03.2017, revealed that the levels of several key parameters in the effluent, including Chemical Oxygen Demand (COD), Biological Oxygen Demand (BOD), and Total Suspended Solids (TSS), significantly exceeded the prescribed NEQS. Similarly, the analysis of air emissions indicated that Sulfur Dioxide (SO2) and Particulate Matter (PM10) concentrations were also in excess of the NEQS. The Complainant further alleged that despite prior warnings and notices issued to the Respondent regarding non-compliance, the Respondent failed to take adequate measures to control pollution, thereby continuing to cause environmental degradation. The Complainant sought a declaration that the Respondent is in violation of environmental laws, an order for immediate cessation of polluting activities, the imposition of a substantial penalty, and directions for the installation and operationalization of appropriate pollution control technologies.
+The Complainant presented a comprehensive set of documentary and testimonial evidence to substantiate its allegations. This included:
+1.  **Inspection Report dated 15.03.2017**: Duly signed by the EPA inspection team and acknowledged by the Respondent's on-site representative, detailing the observations made during the inspection, including the visible discharge of colored effluent and emissions.
+2.  **Chain of Custody Documents**: Records confirming the proper collection, sealing, and transportation of effluent and air samples to the EPA laboratory.
+3.  **Laboratory Analysis Reports dated 28.03.2017**: Official reports from the EPA's accredited laboratory, clearly indicating the measured values of pollutants in the collected samples and highlighting their exceedance of the NEQS for industrial effluents and gaseous emissions. Specific exceedances were noted for COD (450 mg/L against NEQS of 200 mg/L), BOD (280 mg/L against NEQS of 80 mg/L), TSS (300 mg/L against NEQS of 200 mg/L), SO2 (600 ppm against NEQS of 250 ppm), and PM10 (350 mg/Nm3 against NEQS of 200 mg/Nm3).
+4.  **Notices and Show Cause Notices**: Copies of previous communications issued by the EPA to the Respondent, warning about non-compliance and requiring remedial actions, demonstrating a history of non-adherence.
+5.  **Testimony of Mr. Adnan Khan**: The Assistant Director, EPA, Lahore, who led the inspection team, testified under oath, confirming the facts stated in the inspection report and the sampling procedures. He also explained the adverse environmental impacts of the observed pollution.
+The Respondent, M/s Ittehad Chemicals Limited, through its legal counsel and
+its authorized representative, vehemently denied the allegations, contending that the facility operates with an existing Effluent Treatment Plant (ETP) and Air Pollution Control Devices (APCDs). They argued that the samples collected by the EPA were not representative, possibly contaminated, or that the analytical methods employed were flawed. The Respondent's counsel further submitted that the company is a responsible corporate entity, actively engaged in environmental stewardship,
+and has invested significant resources in installing and maintaining its Effluent Treatment Plant (ETP) and Air Pollution Control Devices (APCDs). They contended that the alleged exceedances might be temporary fluctuations or due to external factors beyond their control. The Respondent presented:
+1.  **Certificates of Installation**: Documents confirming the installation of an ETP and APCDs, though without recent operational efficiency reports
+
+**IV. TRIBUNAL'S ANALYSIS**
+
+Having considered the evidence on record, this Tribunal finds that the EPA inspection was conducted by authorized officers, samples were collected following prescribed protocols, and the laboratory results are from a certified laboratory. The chain of custody documentation is complete and the Respondent's challenge to the sampling methodology is without merit. The NEQS exceedances are established beyond any reasonable doubt.
+
+**V. LEGAL FRAMEWORK**
+
+The jurisdiction of this Tribunal is established under Section 21 of PEPA, 1997. The complaint has been filed in the prescribed manner and the Respondent has been afforded full opportunity to be heard. Section 17(1) of PEPA, 1997 empowers this Tribunal to impose a penalty of up to PKR 1,000,000 for a first violation, with an additional PKR 100,000 per day for each day the violation continues.
+
+---
+
+**FINAL ORDER**
+
+Having found the Respondent, the Respondent, guilty of violating the National Environmental Quality Standards under Section 11 of the Pakistan Environmental Protection Act, 1997, this Tribunal hereby passes the following order:
+
+**1. Declaration of Guilt**
+
+The Respondent, the Respondent, is hereby declared guilty of violating NEQS standards under Section 11 of PEPA, 1997, read with applicable NEQS Regulations (SRO 742(I)/2000).
+
+**2. Penalty**
+
+The Respondent is directed to pay a penalty of **PKR 1,700,000/- (Rupees One Million Seven Hundred Thousand only)** under Section 17(1) of PEPA, 1997, payable to the Punjab Environmental Protection Agency within thirty (30) days of this order.
+
+**3. Environmental Charges (PSDF)**
+
+The Respondent shall additionally deposit **PKR 340,000/-** into the Punjab Environmental Protection (Provincial Sustainable Development Fund) under the Punjab Environmental Protection (Provincial Sustainable Development Fund) Rules, 2010.
+
+**4. Compliance Directive**
+
+The Respondent is directed to achieve full compliance with NEQS standards within sixty (60) days of this order and to submit documentary evidence of compliance to the Punjab EPA.
+
+**5. Monthly Compliance Reports**
+
+The Respondent shall submit monthly compliance reports to the Punjab EPA for a period of twelve (12) months from the date of this order.
+
+**6. Daily Fine for Non-Compliance**
+
+In the event of failure to comply within the stipulated period, the Respondent shall be liable to pay a daily fine of **PKR 100,000/-** per day of continued non-compliance under Section 17(1) of PEPA, 1997.
+
+**7. EPA Monitoring**
+
+The Punjab EPA is directed to conduct monthly inspection of the Respondent's facility for one (1) year and report findings to this Tribunal.
+
+**8. Costs**
+
+The Respondent shall bear costs assessed at **PKR 50,000/-**, payable to the Punjab EPA.
+
+**9. Right of Appeal**
+
+Any party aggrieved by this order may prefer an appeal before the Lahore High Court under Section 22 of PEPA, 1997 within thirty (30) days of receipt of this order.
+
+Announced in open Tribunal this **15 December, 2022**.
+
+**(Justice (R) Nasir Saeed Sheikh)**
+**Presiding Officer**
+**Punjab Environmental Tribunal, Lahore**

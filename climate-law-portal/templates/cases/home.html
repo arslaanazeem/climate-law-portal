@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+{% load humanize %}
+
+{% block title %}{{ SITE_NAME }} — Search 5,000+ Climate & Environmental Cases{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <h1>Search Pakistan's Climate &amp; Environmental Case Law</h1>
+  <p class="hero-tag">{{ SITE_TAGLINE }} <strong>{{ total_cases|intcomma }}</strong> cases indexed.</p>
+
+  <form action="{% url 'cases:search' %}" method="get" class="search-form" role="search">
+    <div class="search-row">
+      <input
+        type="search"
+        name="q"
+        class="search-input"
+        placeholder="Search by case title, court, NEQS parameter, respondent…"
+        autocomplete="off"
+        autofocus>
+      <button type="submit" class="search-btn">Search</button>
+    </div>
+    <div class="search-filters">
+      <label>
+        Year
+        <select name="year">
+          <option value="">All</option>
+          {% for y in years %}
+            <option value="{{ y }}">{{ y }}</option>
+          {% endfor %}
+        </select>
+      </label>
+      <label>
+        Violation type
+        <select name="violation">
+          <option value="">All</option>
+          {% for value, label in violation_choices %}
+            <option value="{{ value }}">{{ label }}</option>
+          {% endfor %}
+        </select>
+      </label>
+    </div>
+  </form>
+</section>
+
+<section class="grid-2">
+  <div class="card">
+    <h2>Cases by violation type</h2>
+    <ul class="bar-list">
+      {% for row in by_violation %}
+        <li>
+          <a href="{% url 'cases:search' %}?violation={{ row.violation_type }}">
+            <span class="bar-label">{{ row.violation_type|title|cut:"_" }}</span>
+            <span class="bar-count">{{ row.n|intcomma }}</span>
+          </a>
+        </li>
+      {% empty %}
+        <li class="muted">No cases yet — run <code>python manage.py ingest_cases</code>.</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Recently added</h2>
+    {% if recent_cases %}
+      <ul class="case-list compact">
+        {% for case in recent_cases %}
+          <li>
+            <a href="{{ case.get_absolute_url }}" class="case-title-link">{{ case.case_title }}</a>
+            <div class="case-meta muted small">
+              {% if case.court %}{{ case.court }}{% endif %}{% if case.year %} · {{ case.year }}{% endif %}
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p class="muted">No cases yet.</p>
+    {% endif %}
+  </div>
+</section>
+{% endblock %}

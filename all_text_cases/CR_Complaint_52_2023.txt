@@ -1,0 +1,94 @@
+PUNJAB ENVIRONMENTAL TRIBUNAL
+LAHORE
+COMPLAINT NO. 52/2023
+Assistant Director, Environmental Protection Agency, Lahore
+...Complainant
+VERSUS
+M/s Packages Limited
+...Respondent
+Presided by: Justice (R) Chaudhry Muhammad Iqbal
+This judgment pertains to a complaint filed by the Assistant Director, Environmental Protection Agency (hereinafter referred to as "the EPA" or "the Complainant"), Lahore, against M/s Packages Limited (hereinafter referred to as "the Respondent"), a manufacturing entity situated in Lahore. The complaint, registered as Complaint No. 52/2023, was lodged on April 15, 2023, invoking the jurisdiction of this Tribunal under Section 17 of the Pakistan Environmental Protection Act, 1997 (hereinafter referred to as "PEPA, 1997"), for alleged contraventions of environmental laws and standards.
+The Complainant asserted that the Respondent, engaged in large-scale manufacturing operations, was found to be in persistent violation of the National Environmental Quality Standards (NEQS) and other provisions of PEPA, 1997, and its allied rules. Specifically, the allegations included:
+1.  Discharge of untreated or inadequately treated industrial effluent into the public sewerage system/drainage channels, with laboratory analysis indicating levels of Biochemical Oxygen Demand (BOD), Chemical Oxygen Demand (COD), Total Suspended Solids (TSS), and pH values significantly exceeding the prescribed NEQS for industrial effluent.
+2.  Emission of air pollutants, including Particulate Matter (PM), Sulphur Dioxide (SO2), and Oxides of Nitrogen (NOx), from its industrial stacks beyond the permissible limits set by the NEQS for industrial gaseous emissions.
+3.  Improper management and disposal of hazardous waste generated during its manufacturing processes, in contravention of the Hazardous Substances Rules, 2003, and the Hospital Waste Management Rules, 2005 (where applicable by analogy for industrial hazardous waste).
+4.  Failure to implement effective pollution control measures despite repeated warnings and notices issued by the EPA.
+The Complainant further alleged that the Respondent had not only caused environmental degradation but also posed a significant threat to public health and safety in the surrounding residential and agricultural areas.
+To substantiate its claims, the Complainant presented a comprehensive dossier of evidence. This included:
+1.  **Site Inspection Reports:** Multiple reports from EPA officials detailing observations during unannounced inspections conducted on February 10, 2023, March 05, 2023, and April 01, 2023, noting the visible discharge of colored effluent and smoke emissions.
+2.  **Environmental Sample Analysis Reports:** Laboratory reports from the EPA’s accredited laboratory, dated March 15, 2023, and April 05, 2023, confirming the exceedance of NEQS for both liquid effluent and gaseous emissions. The effluent samples showed BOD levels of 350 mg/L (NEQS: 80 mg/L), COD of 700 mg/L (NEQS: 150 mg/L), TSS of 200 mg/L (NEQS: 200 mg/L), and pH of 5.5 (NEQS: 6-9). Air emission samples indicated PM levels of 250 mg/Nm3 (NEQS: 150 mg/Nm3) and SO2 of 1200 mg/Nm3 (NEQS: 600 mg/
+Nm3). Additionally, air emission samples indicated NOx levels of 1000 mg/Nm3 (NEQS: 800 mg/Nm3).
+3.  **Notices and Warnings:** Copies of formal notices and warnings issued to the Respondent by the EPA on January 15, 2023, and March 20, 2023, highlighting the observed violations and requiring corrective actions, which were allegedly disregarded.
+4.  **Expert Testimony:** Oral testimony from EPA environmental engineers and laboratory technicians, who corroborated the findings of the inspection reports and analytical data, and explained the adverse environmental and health impacts of the Respondent's activities.
+The Complainant sought a stringent penalty against the Respondent, including directives for immediate cessation of polluting activities, implementation of comprehensive pollution control measures, and financial penalties commensurate with the severity and persistence of the environmental damage caused.
+**Respondent’s Defense:**
+The Respondent, through its legal counsel, vehemently denied the allegations, asserting that it is a responsible
+environmental entity and is fully committed to adhering to environmental regulations. The Respondent submitted that:
+1.  It possesses a functional Effluent Treatment Plant (ETP) and air pollution control devices, which are regularly maintained and operated to minimize environmental impact. They presented maintenance logs and operational records as evidence of their efforts.
+2.  The sampling and analysis methodology employed by the EPA might be flawed or non-representative, leading to inaccurate results. They contended that their internal monitoring, performed by an independent consultant, indicated compliance with NEQS on several occasions, though these reports were not provided with the same frequency or detail as the EPA's.
+3.  The alleged exceedances, if any, were minor and sporadic, and efforts were continuously being made to upgrade their existing infrastructure. They claimed to have invested significantly in new technology and processes to enhance environmental performance.
+4.  The application of Hospital Waste Management Rules, 2005, by analogy for industrial hazardous waste was inappropriate, and they were, in fact, managing hazardous waste in accordance with their internal safety protocols and through licensed third-party contractors, though specific documentation for waste manifests or disposal certificates was not extensively provided for all alleged violations.
+5.  The Respondent further argued that it is a major contributor to the national economy, providing substantial employment and taxes, and that any drastic measures or excessive penalties would adversely affect its operations and the livelihoods of its employees. They requested that the Tribunal consider their overall positive contributions and grant them reasonable time to address any proven deficiencies, rather than imposing punitive measures.
+**Analysis and Findings:**
+This Tribunal has carefully considered the arguments presented by both the Complainant and the Respondent, along with the documentary and oral evidence adduced.
+The Complainant's case rests on concrete evidence: multiple site inspection reports unequivocally noting visible pollution, meticulously detailed laboratory analysis reports confirming significant exceedance of NEQS for both liquid effluent and gaseous emissions, and a clear chronology of warnings issued to the Respondent which were evidently not heeded. The analytical data, specifically showing BOD levels of 350 mg/L against a NEQS of 80 mg/L, COD of 700 mg/L against 150 mg/L, TSS of 200 mg/L against 200 mg/L, pH of 5.5 against 6-9, PM levels of 250 mg/Nm3 against 150 mg/Nm3, SO2 of 1200 mg/Nm3 against 600 mg/Nm3, and NOx levels of 1000 mg/Nm3 against 800 mg/Nm3, presents a compelling picture of persistent and severe non-compliance. These figures demonstrate a clear and substantial deviation from the legally mandated environmental standards. The expert testimony from EPA officials further solidified the veracity of these findings and elucidated the environmental and public health risks posed by such pollution.
+Conversely, the Respondent’s defense, while asserting commitment to environmental responsibility, largely failed to provide concrete, verifiable evidence to counter the specific allegations and scientific data presented by the EPA. The claims of functional ETPs and APCDs, and internal monitoring showing compliance, were not substantiated with equally rigorous and independently verifiable reports that could challenge the EPA’s accredited laboratory findings. The argument regarding flawed EPA methodology lacked specific proof, and the absence of comprehensive documentation for hazardous waste disposal further weakened their position. While the Tribunal acknowledges the Respondent's economic contributions, such contributions cannot supersede the fundamental obligation to comply with environmental laws designed to protect public health and the environment. Environmental compliance is not merely an option but a legal imperative under PEPA, 1997.
+Section 11 of PEPA, 1997, explicitly prohibits the discharge or emission of any effluent or waste or air pollutant in an amount, concentration, or level in excess of the NEQS. Section 13 mandates proper management of hazardous substances. The evidence presented by the Complainant overwhelmingly establishes that the Respondent has been in clear violation of these core provisions of PEPA, 1997, and its associated rules, including the Hazardous Substances Rules, 2003. The repeated warnings issued by the EPA, which were disregarded, indicate a pattern of persistent non-compliance, demonstrating a lack of diligence in addressing environmental concerns.
+The Tribunal finds that the Complainant has successfully discharged its burden of proof. The Respondent's actions constitute a serious and continuous contravention of environmental laws, causing demonstrable environmental degradation and posing a potential threat to public health. The scale of the reported exceedances is not minor or sporadic; it reflects systemic failures in pollution control and waste management.
+**Final Order and Penalty:**
+In light of the foregoing analysis and findings, this Tribunal hereby orders as follows:
+1.  **Declaration of Guilt:** M/s Packages Limited (the Respondent) is hereby found guilty of contravening Section 11 and Section 13 of the Pakistan Environmental Protection Act, 1997, and the rules framed thereunder, as detailed in the Complainant's allegations.
+2.  **Cessation of Pollution:** The Respondent shall immediately cease the discharge of untreated or inadequately treated industrial effluent and the emission of air pollutants exceeding the National Environmental Quality Standards (NEQS).
+3.  **Upgradation and Installation of Pollution Control Systems:**
+    *   The Respondent shall, within **ninety (90) days** from the date of this order, upgrade its existing Effluent Treatment Plant (ETP) and install any necessary additional infrastructure to ensure that all discharged liquid effluent consistently meets the prescribed NEQS.
+    *   The Respondent shall, within **ninety (90) days** from the date of this order, upgrade its existing Air Pollution Control Devices (APCDs) and implement all necessary measures to ensure that all gaseous emissions from its industrial stacks consistently meet the prescribed NEQS.
+4.  **Hazardous Waste Management Plan:** The Respondent shall, within **sixty (60) days** from the date of this order, develop and submit to the Environmental Protection Agency (EPA) a comprehensive Hazardous Waste Management Plan, clearly outlining procedures for the segregation, collection, storage, transport, treatment, and disposal of all hazardous waste generated at its facility, in strict compliance with the Hazardous Substances Rules, 2003. The plan must include agreements with licensed hazardous waste contractors and detailed manifest tracking systems.
+5.  **Monitoring and Reporting
+
+---
+
+**FINAL ORDER**
+
+Having found the Respondent, the Respondent, guilty of violating the National Environmental Quality Standards under Section 11 of the Pakistan Environmental Protection Act, 1997, this Tribunal hereby passes the following order:
+
+**1. Declaration of Guilt**
+
+The Respondent, the Respondent, is hereby declared guilty of violating NEQS standards under Section 11 of PEPA, 1997, read with applicable NEQS Regulations (SRO 742(I)/2000).
+
+**2. Penalty**
+
+The Respondent is directed to pay a penalty of **PKR 2,000,000/- (Rupees Two Million only)** under Section 17(1) of PEPA, 1997, payable to the Punjab Environmental Protection Agency within thirty (30) days of this order.
+
+**3. Environmental Charges (PSDF)**
+
+The Respondent shall additionally deposit **PKR 400,000/-** into the Punjab Environmental Protection (Provincial Sustainable Development Fund) under the Punjab Environmental Protection (Provincial Sustainable Development Fund) Rules, 2010.
+
+**4. Compliance Directive**
+
+The Respondent is directed to achieve full compliance with NEQS standards within sixty (60) days of this order and to submit documentary evidence of compliance to the Punjab EPA.
+
+**5. Monthly Compliance Reports**
+
+The Respondent shall submit monthly compliance reports to the Punjab EPA for a period of twelve (12) months from the date of this order.
+
+**6. Daily Fine for Non-Compliance**
+
+In the event of failure to comply within the stipulated period, the Respondent shall be liable to pay a daily fine of **PKR 100,000/-** per day of continued non-compliance under Section 17(1) of PEPA, 1997.
+
+**7. EPA Monitoring**
+
+The Punjab EPA is directed to conduct monthly inspection of the Respondent's facility for one (1) year and report findings to this Tribunal.
+
+**8. Costs**
+
+The Respondent shall bear costs assessed at **PKR 50,000/-**, payable to the Punjab EPA.
+
+**9. Right of Appeal**
+
+Any party aggrieved by this order may prefer an appeal before the Lahore High Court under Section 22 of PEPA, 1997 within thirty (30) days of receipt of this order.
+
+Announced in open Tribunal this **18 April, 2023**.
+
+**(Justice (R) Chaudhry Muhammad Iqbal)**
+**Presiding Officer**
+**Punjab Environmental Tribunal, Lahore**

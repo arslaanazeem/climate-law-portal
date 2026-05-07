@@ -1,0 +1,114 @@
+{% extends "base.html" %}
+{% load humanize %}
+
+{% block title %}
+  {% if query %}"{{ query }}" — {% endif %}Search results · {{ SITE_NAME }}
+{% endblock %}
+
+{% block content %}
+<section class="search-bar-section">
+  <form action="{% url 'cases:search' %}" method="get" class="search-form compact" role="search">
+    <div class="search-row">
+      <input type="search" name="q" class="search-input" value="{{ query }}"
+             placeholder="Search cases…" autocomplete="off">
+      <button type="submit" class="search-btn">Search</button>
+    </div>
+    <div class="search-filters">
+      <label>
+        Year
+        <select name="year">
+          <option value="">All</option>
+          {% for y in years %}
+            <option value="{{ y }}" {% if year == y|stringformat:"s" %}selected{% endif %}>{{ y }}</option>
+          {% endfor %}
+        </select>
+      </label>
+      <label>
+        Violation type
+        <select name="violation">
+          <option value="">All</option>
+          {% for value, label in violation_choices %}
+            <option value="{{ value }}" {% if violation == value %}selected{% endif %}>{{ label }}</option>
+          {% endfor %}
+        </select>
+      </label>
+      <label>
+        Sort
+        <select name="sort">
+          <option value="relevance" {% if sort == "relevance" %}selected{% endif %}>Most relevant</option>
+          <option value="newest" {% if sort == "newest" %}selected{% endif %}>Newest first</option>
+          <option value="oldest" {% if sort == "oldest" %}selected{% endif %}>Oldest first</option>
+          <option value="title" {% if sort == "title" %}selected{% endif %}>Title (A–Z)</option>
+        </select>
+      </label>
+    </div>
+  </form>
+</section>
+
+<section class="results-summary">
+  <h1 class="results-heading">
+    {% if query %}
+      Results for <em>"{{ query }}"</em>
+    {% else %}
+      All cases
+    {% endif %}
+  </h1>
+  <p class="muted">
+    {{ total_results|intcomma }} case{{ total_results|pluralize }} found
+    {% if year %} · year {{ year }}{% endif %}
+    {% if violation %} · {{ violation|title|cut:"_" }}{% endif %}
+  </p>
+</section>
+
+{% if results %}
+  <ol class="case-list" start="{{ page_obj.start_index }}">
+    {% for case in results %}
+      <li class="case-card">
+        <a href="{{ case.get_absolute_url }}" class="case-title-link">
+          <h2>{{ case.case_title }}</h2>
+        </a>
+        <div class="case-meta muted small">
+          {% if case.court %}{{ case.court }}{% endif %}
+          {% if case.year %} · {{ case.year }}{% endif %}
+          {% if case.violation_type %} · <span class="badge">{{ case.get_violation_type_display }}</span>{% endif %}
+        </div>
+        {% if case.short_summary %}
+          <p class="case-snippet">{{ case.short_summary }}</p>
+        {% endif %}
+        {% if case.tag_list %}
+          <div class="tag-row">
+            {% for tag in case.tag_list %}
+              <a class="tag" href="{% url 'cases:search' %}?q={{ tag|urlencode }}">{{ tag }}</a>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ol>
+
+  {% if page_obj.paginator.num_pages > 1 %}
+    <nav class="pagination" aria-label="Pagination">
+      {% if page_obj.has_previous %}
+        <a href="?{% if base_querystring %}{{ base_querystring }}&{% endif %}page={{ page_obj.previous_page_number }}">&larr; Previous</a>
+      {% else %}
+        <span class="disabled">&larr; Previous</span>
+      {% endif %}
+
+      <span class="page-info">
+        Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages|intcomma }}
+      </span>
+
+      {% if page_obj.has_next %}
+        <a href="?{% if base_querystring %}{{ base_querystring }}&{% endif %}page={{ page_obj.next_page_number }}">Next &rarr;</a>
+      {% else %}
+        <span class="disabled">Next &rarr;</span>
+      {% endif %}
+    </nav>
+  {% endif %}
+{% else %}
+  <div class="empty-state card">
+    <h2>No matching cases</h2>
+    <p class="muted">Try a different keyword, broaden filters, or browse all cases by clearing the search box.</p>
+  </div>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,35 @@
+
+ ==========================================================
+   Climate Law Intelligence Portal - Pakistan
+   One-click local launcher
+ ==========================================================
+
+[1/6] Checking Python...
+      Found: Python 3.12.4
+
+[2/6] Setting up virtual environment...
+      Already exists - reusing.
+
+[3/6] Installing Python packages...
+      Done.
+
+[4/6] Applying database migrations...
+Operations to perform:
+  Apply all migrations: admin, auth, cases, contenttypes, sessions
+Running migrations:
+  No migrations to apply.
+
+[5/6] Checking case database...
+      Database already has 5000 cases - skipping import.
+
+[6/6] Starting web server...
+      Using http://127.0.0.1:8765/
+
+ ==========================================================
+   The site is starting. Your browser will open shortly.
+   Press Ctrl+C in THIS window to stop the server.
+ ==========================================================
+
+
+Server stopped. You can close this window.
+Press any key to continue . . . 

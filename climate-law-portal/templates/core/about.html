@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block title %}About · {{ SITE_NAME }}{% endblock %}
+
+{% block content %}
+<article class="prose">
+  <h1>About this portal</h1>
+  <p>
+    The <strong>{{ SITE_NAME }}</strong> is a free, open research tool that
+    indexes climate &amp; environmental case law from Pakistan's courts and
+    environmental tribunals. It is inspired by Pakistan Law Site and aims to
+    make environmental jurisprudence searchable for researchers, students,
+    lawyers, and journalists.
+  </p>
+
+  <h2>What's inside</h2>
+  <ul>
+    <li>5,000+ environmental tribunal complaints and judgments.</li>
+    <li>Full-text keyword search across title, summary, and judgment.</li>
+    <li>Filtering by year and violation type.</li>
+    <li>Stable, citable URLs for each case.</li>
+  </ul>
+
+  <h2>Stack</h2>
+  <ul>
+    <li>Backend: Django + SQLite</li>
+    <li>Frontend: Server-rendered Django templates &amp; minimal CSS</li>
+    <li>Hosting: Render free tier</li>
+  </ul>
+
+  <p class="muted small">
+    This portal is provided for research and educational purposes only and
+    does not constitute legal advice.
+  </p>
+</article>
+{% endblock %}

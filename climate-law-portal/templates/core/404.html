@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}Page not found · {{ SITE_NAME }}{% endblock %}
+{% block content %}
+<div class="empty-state card">
+  <h1>404 — Page not found</h1>
+  <p class="muted">We couldn't find what you were looking for.</p>
+  <p><a class="btn" href="{% url 'cases:home' %}">Back to home</a></p>
+</div>
+{% endblock %}

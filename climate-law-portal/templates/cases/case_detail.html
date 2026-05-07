@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% load humanize %}
+
+{% block title %}{{ case.case_title }} · {{ SITE_NAME }}{% endblock %}
+
+{% block content %}
+<article class="case-detail">
+  <nav class="breadcrumbs muted small">
+    <a href="{% url 'cases:home' %}">Home</a> ›
+    <a href="{% url 'cases:search' %}">Cases</a> ›
+    <span>{{ case.case_title|truncatechars:60 }}</span>
+  </nav>
+
+  <header class="detail-header">
+    <h1>{{ case.case_title }}</h1>
+    <div class="detail-meta">
+      {% if case.court %}<span><strong>Court:</strong> {{ case.court }}</span>{% endif %}
+      {% if case.year %}<span><strong>Year:</strong> {{ case.year }}</span>{% endif %}
+      {% if case.country %}<span><strong>Country:</strong> {{ case.country }}</span>{% endif %}
+      {% if case.violation_type %}<span><strong>Violation:</strong> <span class="badge">{{ case.get_violation_type_display }}</span></span>{% endif %}
+    </div>
+    {% if case.tag_list %}
+      <div class="tag-row">
+        {% for tag in case.tag_list %}
+          <a class="tag" href="{% url 'cases:search' %}?q={{ tag|urlencode }}">{{ tag }}</a>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </header>
+
+  {% if case.summary %}
+    <section class="card">
+      <h2>Summary</h2>
+      <p class="case-summary">{{ case.summary|linebreaksbr }}</p>
+    </section>
+  {% endif %}
+
+  <section class="card">
+    <h2>Full text</h2>
+    {% if case.full_text %}
+      <div class="full-text">{{ case.full_text|linebreaksbr }}</div>
+    {% else %}
+      <p class="muted">No full text recorded for this case.</p>
+    {% endif %}
+  </section>
+
+  <aside class="provenance muted small">
+    {% if case.source_file %}<div>Source: <code>{{ case.source_file }}</code></div>{% endif %}
+    <div>Indexed: {{ case.created_at|date:"d M Y, H:i" }}</div>
+  </aside>
+
+  {% if related %}
+    <section>
+      <h2>Related cases</h2>
+      <ul class="case-list compact">
+        {% for r in related %}
+          <li>
+            <a href="{{ r.get_absolute_url }}" class="case-title-link">{{ r.case_title }}</a>
+            <div class="case-meta muted small">
+              {% if r.court %}{{ r.court }}{% endif %}{% if r.year %} · {{ r.year }}{% endif %}
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+</article>
+{% endblock %}

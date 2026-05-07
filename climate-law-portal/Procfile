@@ -1,0 +1,2 @@
+web: gunicorn climate_law_portal.wsgi:application --config gunicorn.conf.py
+release: python manage.py migrate --noinput

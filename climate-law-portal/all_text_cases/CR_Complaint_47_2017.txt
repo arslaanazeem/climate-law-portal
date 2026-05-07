@@ -1,0 +1,78 @@
+PUNJAB ENVIRONMENTAL TRIBUNAL
+LAHORE
+**COMPLAINT NO. 47/2017**
+**Assistant Director, Environmental Protection Agency, Lahore**
+...Complainant
+**VERSUS**
+**M/s Sapphire Fibres Limited**
+...Respondent
+**Presided by: Justice (R) Nasir Saeed Sheikh**
+**JUDGMENT**
+This judgment addresses Complaint No. 47/2017, filed by the Assistant Director, Environmental Protection Agency (hereinafter referred to as "the Complainant" or "EPA"), Lahore, against M/s Sapphire Fibres Limited (hereinafter referred to as "the Respondent"), a prominent textile manufacturing unit located in Lahore, for alleged violations of environmental laws and standards. The Tribunal has carefully considered the pleadings, evidence, and arguments presented by both parties to reach a just and equitable conclusion in this matter of significant public interest concerning environmental protection.
+The Complainant, through its authorized representative, alleged that the Respondent was engaged in the discharge of industrial effluent containing pollutants far exceeding the National Environmental Quality Standards (NEQS) into the public sewerage system and ultimately into a nearby water body, without adequate treatment. Specifically, the EPA contended that despite repeated warnings and notices, the Respondent failed to effectively operate its Effluent Treatment Plant (ETP) or implement appropriate measures to bring its discharges into compliance with the NEQS. Furthermore, the Complainant alleged that the Respondent had expanded its operations without obtaining the requisite Environmental Approval (EIA/IEE) under Section 12 of the Pakistan Environmental Protection Act, 1997 (PEPA, 1997), or, if an approval existed, it was operating in contravention of its stipulated conditions. The primary concern raised was the potential harm to public health, aquatic life, and the general environment due to the continuous discharge of untreated or inadequately treated wastewater.
+To substantiate its claims, the Complainant presented a series of inspection reports dating from January 2017 to July 2017, prepared by EPA officials, which consistently noted observations of dark-colored, foul-smelling effluent being discharged directly from the Respondent's premises. Crucially, the Complainant submitted multiple laboratory analysis reports from the EPA’s accredited laboratory. These reports, corresponding to samples collected on 15th February 2017, 10th April 2017, and 5th July 2017, consistently showed concentrations of Biochemical Oxygen Demand (BOD), Chemical Oxygen Demand (COD), Total Suspended Solids (TSS), and pH levels significantly exceeding the NEQS for industrial effluents. For instance, the report of 10th April 2017 indicated BOD levels of 350 mg/L (NEQS: 80 mg/L), COD levels of 850 mg/L (NEQS: 150 mg/L), and TSS of 280 mg/L (NEQS: 200 mg/L). Photographic and
+video evidence further corroborated the visual observations of the EPA inspectors, depicting the discharge point and the evident pollution. Expert testimonies from EPA officials detailed the methodology of sample collection, chain of custody, and the interpretation of laboratory results, leaving little doubt about the veracity of the Complainant's assertions regarding the non-compliance with NEQS. Regarding the alleged expansion without environmental approval, the Complainant submitted documentary evidence, including satellite imagery
+and other proprietary data, indicating significant structural additions and increased operational capacity between 2015 and 2017, for which no environmental approval was found on record.
+In response, the Respondent, M/s Sapphire Fibres Limited, through its learned counsel, vehemently denied the allegations. The Respondent contended that it operates a state-of-the-art Effluent Treatment Plant (ETP) which is regularly maintained and operates in compliance with environmental standards. It was argued that any occasional exceedance of NEQS might be attributed to unforeseen operational glitches, fluctuations in raw material composition, or external factors beyond its control, rather than a deliberate failure to treat effluent. The Respondent challenged the veracity and methodology of the EPA's sample collection and laboratory analysis, suggesting potential procedural lapses that could render the results unreliable. Furthermore, the Respondent asserted that its operational expansion, if any, was within the scope of its existing environmental approvals or did not constitute a "project" requiring a fresh EIA/IEE under the relevant regulations, and that it has always been a responsible corporate entity committed to environmental stewardship. Documentary evidence primarily comprised internal maintenance logs for the ETP and general corporate social responsibility reports, which, however, did not directly counter the specific laboratory findings of non-compliance. No independent third-party laboratory reports were presented by the Respondent to challenge the EPA's findings, nor was compelling evidence provided to demonstrate that the alleged expansion had received the necessary environmental clearance or was exempt.
+The Tribunal has meticulously reviewed the voluminous record, including the Complainant's detailed inspection reports, incontrovertible laboratory analyses, photographic and video evidence, and expert testimonies. The consistency in the EPA's findings across multiple inspections and sample collections over several months strongly corroborates the assertion that the Respondent's ETP was either not adequately functional or not being operated effectively to meet the NEQS. The significant exceedance levels for BOD, COD, and TSS are not indicative of minor operational glitches but rather suggest a systemic failure in effluent treatment. The chain of custody for the samples was adequately established by the Complainant, and the laboratory reports from an accredited facility carry substantial evidentiary weight. The Respondent's general denials and unsubstantiated claims regarding procedural lapses, without presenting specific counter-evidence such as their own independent laboratory analyses or detailed operational records demonstrating compliance during the relevant periods, fail to rebut the strong prima facie case built by the Complainant.
+Regarding the alleged expansion without environmental approval, the satellite imagery and other documentary evidence presented by the Complainant, showing significant structural and operational changes, remained largely unchallenged with concrete proof of approval or exemption by the Respondent. The onus was on the Respondent to demonstrate that such expansion had received the requisite environmental clearance under Section 12 of PEPA, 1997, or that it fell outside the ambit of projects requiring such approval. In the absence of such proof, the Tribunal finds the Complainant's assertion on this point to be credible.
+It is imperative to emphasize that environmental protection is a fundamental right and a matter of supreme public interest. Industrial units, while contributing to economic development, bear a statutory and moral obligation to ensure that their operations do not degrade the environment or pose a threat to public health. The continuous discharge of untreated or inadequately treated industrial effluent directly into public waterways or sewerage systems is a grave violation of environmental laws and standards, with far-reaching consequences for aquatic ecosystems, soil quality, groundwater, and human health. The failure to obtain environmental approval for expansion undermines the regulatory framework designed to prevent pollution at the source and ensure sustainable development.
+**FINAL ORDER AND PENALTY:**
+In light of the overwhelming evidence presented by the Complainant and the Respondent's failure to effectively rebut the allegations, this Tribunal finds M/s Sapphire Fibres Limited, the Respondent, guilty of violating the provisions of the Pakistan Environmental Protection Act, 1997, specifically:
+1.  **Section 11:** For discharging industrial effluent containing pollutants exceeding the National Environmental Quality Standards (NEQS).
+2.  **Section 12:** For undertaking expansion of its industrial operations without obtaining the requisite Environmental Approval (EIA/IEE).
+Therefore, the Tribunal issues the following orders and penalties:
+a.  **Cessation of Discharge and Compliance:** The Respondent is hereby directed to immediately cease the discharge of any industrial effluent that does not meet the prescribed National Environmental Quality Standards (NEQS). The Respondent shall ensure the full and effective operation and, if necessary, upgrade of its Effluent Treatment Plant (ETP) within **ninety (90) days** from the date of this judgment, to ensure consistent compliance with all NEQS parameters.
+b.  **Environmental Approval:** The Respondent is directed to apply for and obtain the necessary Environmental Approval (EIA/IEE) for its expanded operations under Section 12 of the PEPA, 1997, from the Environmental Protection Agency, within **one hundred and twenty (120) days** from the date of this judgment.
+c.  **Monetary Penalty for Violation of Section 11:** A penalty of **PKR 1,000,000/- (Rupees One Million only)** is imposed on the Respondent for the continuous contravention of Section 11 of the PEPA, 1997, by discharging untreated/inadequately treated effluent.
+d.  **Monetary Penalty for Violation of Section 12:** A separate penalty of **PKR 1,000,000/- (Rupees One Million only)** is imposed on the Respondent for the violation of Section 12 of the PEPA, 1997, for undertaking expansion without the requisite environmental approval.
+e.  **Daily Fine for Non-Compliance:** In the event of non-compliance with the directions outlined in clauses (a) and (b) within the stipulated timeframes, the Respondent shall be liable to pay a further fine of **PKR 100,000/- (Rupees One Hundred Thousand only)** for each day such contravention continues, until full compliance is achieved. This daily fine shall be computed from the expiry of the respective compliance periods.
+f.  **Monitoring and Reporting:** The Environmental Protection Agency, Lahore, is directed to rigorously monitor the Respondent's
+
+---
+
+**FINAL ORDER**
+
+Having found the Respondent, the Respondent, guilty of violating the National Environmental Quality Standards under Section 11 of the Pakistan Environmental Protection Act, 1997, this Tribunal hereby passes the following order:
+
+**1. Declaration of Guilt**
+
+The Respondent, the Respondent, is hereby declared guilty of violating NEQS standards under Section 11 of PEPA, 1997, read with applicable NEQS Regulations (SRO 742(I)/2000).
+
+**2. Penalty**
+
+The Respondent is directed to pay a penalty of **PKR 2,000,000/- (Rupees Two Million only)** under Section 17(1) of PEPA, 1997, payable to the Punjab Environmental Protection Agency within thirty (30) days of this order.
+
+**3. Environmental Charges (PSDF)**
+
+The Respondent shall additionally deposit **PKR 400,000/-** into the Punjab Environmental Protection (Provincial Sustainable Development Fund) under the Punjab Environmental Protection (Provincial Sustainable Development Fund) Rules, 2010.
+
+**4. Compliance Directive**
+
+The Respondent is directed to achieve full compliance with NEQS standards within sixty (60) days of this order and to submit documentary evidence of compliance to the Punjab EPA.
+
+**5. Monthly Compliance Reports**
+
+The Respondent shall submit monthly compliance reports to the Punjab EPA for a period of twelve (12) months from the date of this order.
+
+**6. Daily Fine for Non-Compliance**
+
+In the event of failure to comply within the stipulated period, the Respondent shall be liable to pay a daily fine of **PKR 100,000/-** per day of continued non-compliance under Section 17(1) of PEPA, 1997.
+
+**7. EPA Monitoring**
+
+The Punjab EPA is directed to conduct monthly inspection of the Respondent's facility for one (1) year and report findings to this Tribunal.
+
+**8. Costs**
+
+The Respondent shall bear costs assessed at **PKR 50,000/-**, payable to the Punjab EPA.
+
+**9. Right of Appeal**
+
+Any party aggrieved by this order may prefer an appeal before the Lahore High Court under Section 22 of PEPA, 1997 within thirty (30) days of receipt of this order.
+
+Announced in open Tribunal this **03 December, 2023**.
+
+**(Justice (R) Nasir Saeed Sheikh)**
+**Presiding Officer**
+**Punjab Environmental Tribunal, Lahore**

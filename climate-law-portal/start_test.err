@@ -1,0 +1,6 @@
+INFO 2026-05-07 02:17:03,479 django.utils.autoreload | Watching for file changes with StatReloader
+INFO 2026-05-07 02:17:04,212 django.server | "GET /health/ HTTP/1.1" 200 2
+INFO 2026-05-07 02:17:04,417 django.server | "GET /health/ HTTP/1.1" 200 2
+INFO 2026-05-07 02:17:04,823 django.server | "GET /search/?q=NEQS HTTP/1.1" 200 32099
+INFO 2026-05-07 02:17:06,394 django.server | "GET / HTTP/1.1" 200 7975
+INFO 2026-05-07 02:17:06,629 django.server | "GET /favicon.ico HTTP/1.1" 301 0

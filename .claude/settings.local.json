@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip --version)",
+      "Bash(python *)",
+      "Bash(awk -F'_' '{print $1}')",
+      "Bash(pip install *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://127.0.0.1:8765/health/ dont use extra usage just tell me when limit resets)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" http://127.0.0.1:8765/health/)",
+      "Bash(curl -s -o /tmp/home.html -w \"HTTP %{http_code}  bytes=%{size_download}\\\\n\" http://127.0.0.1:8765/)",
+      "Bash(curl -s -o /tmp/search.html -w \"HTTP %{http_code}  bytes=%{size_download}\\\\n\" \"http://127.0.0.1:8765/search/?q=effluent&year=2024&violation=water_pollution\")",
+      "Bash(curl -s -o /tmp/empty.html -w \"HTTP %{http_code}  bytes=%{size_download}\\\\n\" \"http://127.0.0.1:8765/search/?q=zzznotfound\")",
+      "Bash(curl -s -o /tmp/case.html -w \"HTTP %{http_code}  bytes=%{size_download}\\\\n\" http://127.0.0.1:8765/case/1/)",
+      "Bash(DJANGO_DEBUG=0 DJANGO_SECRET_KEY=test-prod-key-just-for-checking-1234567890 DJANGO_ALLOWED_HOSTS=\".onrender.com,localhost\" python manage.py check --deploy)",
+      "Bash(DJANGO_DEBUG=0 DJANGO_SECRET_KEY=$\\(python -c \"import secrets; print\\(secrets.token_urlsafe\\(64\\)\\)\"\\) DJANGO_ALLOWED_HOSTS=\".onrender.com,localhost\" python manage.py check --deploy)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://127.0.0.1:8765/health/)",
+      "Bash(git --version)",
+      "Bash(gh --version)"
+    ]
+  }
+}

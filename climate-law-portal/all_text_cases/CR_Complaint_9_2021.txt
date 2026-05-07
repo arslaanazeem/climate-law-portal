@@ -1,0 +1,102 @@
+PUNJAB ENVIRONMENTAL TRIBUNAL
+LAHORE
+COMPLAINT NO. 9/2021
+Assistant Director, Environmental Protection Agency, Lahore
+...Complainant
+VERSUS
+M/s Ghani Glass Limited
+...Respondent
+Presided by: Muhammad Irfan
+This judgment addresses Complaint No. 9/2021, filed by the Assistant Director, Environmental Protection Agency (hereinafter referred to as "EPA"), Lahore, against M/s Ghani Glass Limited (hereinafter referred to as "the Respondent"), a prominent manufacturer of glass products situated in the industrial zone of Lahore. The complaint was initiated following multiple inspections and monitoring activities conducted by the EPA, indicating potential non-compliance with environmental standards and regulations. The Tribunal's jurisdiction is invoked under Section 21 of the Pakistan Environmental Protection Act, 1997 (hereinafter referred to as "PEPA, 1997"), read with relevant rules and notifications. The core objective of this Tribunal is to ensure the protection, conservation, rehabilitation, and improvement of the environment, and the prevention and control of pollution, in line with the national environmental policy.
+The Complainant, through its authorized representative, alleged that M/s Ghani Glass Limited has been operating its manufacturing facility without adequately controlling its industrial emissions and discharges, thereby causing environmental pollution in contravention of the National Environmental Quality Standards (NEQS) and the PEPA, 1997. Specifically, the allegations included:
+1.  **Exceedance of Air Emission Standards**: The Respondent's industrial stacks were found to be emitting particulate matter (PM), oxides of nitrogen (NOx), and sulfur dioxide (SO2) in concentrations significantly exceeding the NEQS limits for industrial gaseous emissions. This was particularly observed from the glass melting furnaces, which are a major source of air pollutants.
+2.  **Improper Management of Hazardous Waste**: The Complainant alleged that the Respondent failed to properly segregate, store, and dispose of hazardous waste generated during its manufacturing processes, particularly cullet contaminated with certain chemicals, leading to potential soil and groundwater contamination.
+3.  **Operation without Valid Environmental Approval**: Although the Respondent held an initial Environmental Impact Assessment (EIA) approval, subsequent modifications and expansions to its facility were allegedly undertaken without obtaining the requisite updated environmental approval or No Objection Certificate (NOC) from the EPA, as mandated by Section 12 of the PEPA, 1997, and the EIA/IEE Regulations, 2000.
+4.  **Failure to Install or Maintain Pollution Control Devices**: The EPA contended that despite previous warnings and recommendations, the Respondent had either failed to install adequate air pollution control devices or had not maintained existing ones effectively, leading to persistent violations.
+In support of its allegations, the Complainant presented a comprehensive body of evidence. This included:
+*   **Inspection Reports**: Detailed reports from EPA inspection teams dated 15th March 2021, 28th May 2021, and 12th August 2021, highlighting observations of visible emissions, improper waste storage, and a general lack of environmental management practices.
+*   **Laboratory Analysis Reports**: Certified reports from the EPA's accredited laboratory, based on samples collected from the Respondent's stack emissions on 28th May 2021 and 12th August 2021. These reports unequivocally showed particulate matter concentrations of 250 mg/Nm³ and 280 mg/Nm³ respectively (against a NEQS limit of 150 mg/Nm³ for existing industries), NOx levels of 1200 mg/Nm³ (against a NEQS limit of 800 mg/Nm³), and SO2 levels of 2200 mg/Nm³ (against a NEQS limit of 1700 mg/Nm³).
+*   **Photographic and Videographic Evidence**: Visual documentation depicting dark plumes of smoke emanating from stacks and unsegregated waste piles within the factory premises.
+*   **Correspondence Records**: Copies of show-cause notices issued to the Respondent on 20th April 2021 and 1st July 2021, along with the Respondent's unsatisfactory replies, which failed to demonstrate concrete steps towards compliance.
+*   **Expert Testimony**: The Assistant Director, EPA, also provided testimony, elaborating on the severity of the observed violations and the potential health impacts on surrounding communities.
+The Respondent, M/s Ghani Glass Limited, represented by its legal counsel and technical team, vehemently denied the allegations. Their defense primarily rested on the following points:
+*   **Technical Challenges**: They argued that achieving full compliance with all NEQS, particularly for air emissions from high-temperature glass melting furnaces, presents significant technical and financial challenges. They claimed to be in the process of procuring advanced pollution control technology.
+*   **Maintenance Efforts**: The Respondent asserted that existing pollution control equipment, such as electrostatic precipitators (ESPs), were regularly maintained, but occasional breakdowns or operational fluctuations could lead to temporary exceedances.
+*   **Disputed Sampling Methodology**: They questioned the EPA's sampling methodology and chain of custody for the collected samples, suggesting potential inaccuracies or contamination.
+*   **Waste Management Improvements**: They claimed to have initiated measures for better segregation and storage of waste, presenting internal records of waste disposal contracts with licensed handlers, though these were largely prospective in nature.
+*   **Economic Contribution**: The Respondent highlighted its significant contribution to the national economy, employment generation, and corporate social responsibility initiatives, implying that undue punitive action could jeopardize these benefits.
+The Tribunal considered the following legal provisions in adjudicating this complaint:
+1.  **Pakistan Environmental Protection Act, 1997**:
+    *   **Section 11 (Prohibition of Standards)**: Prohibits the discharge or emission of any effluent or waste or air pollutant or noise in an amount, concentration or level which is in excess of the NEQS.
+    *   **Section 12 (Environmental Impact Assessment)**: Mandates that no proponent of a project shall commence construction
+...or operation of a project unless an EIA or IEE has been filed with and approved by the EPA.
+*   **Section 16 (Powers of the Tribunal)**: Empowers the Tribunal to hear and decide complaints, summon witnesses, take evidence, and pass orders for the purpose of achieving the objectives of the Act, including the imposition of penalties.
+*   **Section 17 (Penalties)**: Prescribes penalties for contravention of the Act. Specifically, Section
+17 (1) provides that whoever contravenes or fails to comply with the provisions of Section 11 or 12 or any rule or regulation made or order or direction issued thereunder shall be punishable with a fine which may extend to one million rupees, and in case of a continuing contravention or failure, with an additional fine which may extend to one hundred thousand rupees for every day during which such contravention or failure continues. Section 17 (2) further stipulates that where the contravention or failure continues for more than a year and is a serious threat to public health or safety, the Tribunal may, in addition to the aforesaid fine, impose a further fine which may extend to a sum calculated at the rate of one hundred thousand rupees per day from the day the contravention or failure started.
+**FINDINGS OF THE TRIBUNAL:**
+The Tribunal has meticulously reviewed the voluminous evidence presented by both the Complainant and the Respondent, alongside the arguments advanced by their respective counsels.
+1.  **Exceedance of Air Emission Standards**: The laboratory analysis reports from the EPA’s accredited laboratory provide irrefutable scientific evidence of consistent and significant exceedances of NEQS for particulate matter, NOx, and SO2. The Respondent's argument regarding "technical challenges" does not absolve it from its legal obligation to comply with environmental standards. While procuring advanced technology may be a long-term solution, the persistent nature of the violations, as evidenced by multiple inspection and sampling dates, indicates a failure to adequately manage existing emissions. The Respondent's challenge to the sampling methodology was unsubstantiated and did not provide sufficient grounds to discredit the EPA's certified reports. The visible emissions captured in photographic and videographic evidence further corroborate these findings.
+2.  **Improper Management of Hazardous Waste**: The inspection reports and photographic evidence clearly demonstrate improper segregation and storage of waste, including potentially hazardous cullet. While the Respondent claimed to have initiated measures and presented "largely prospective" waste disposal contracts, the evidence at the time of inspections pointed to clear non-compliance. Effective waste management is a continuous process requiring consistent adherence to best practices, which was evidently lacking.
+3.  **Operation without Valid Environmental Approval**: The Respondent admitted to holding an initial EIA approval but failed to produce any updated environmental approval or NOC for subsequent modifications and expansions to its facility. This constitutes a clear violation of Section 12 of PEPA, 1997, and the EIA/IEE Regulations, 2000. Any expansion or modification significantly altering the environmental footprint of a project requires fresh assessment and approval.
+4.  **Failure to Install or Maintain Pollution Control Devices**: The persistent nature of the air emission violations, despite previous warnings, strongly suggests that the existing pollution control devices, if any, are either inadequate for the current scale of operations or are not being maintained effectively. The Respondent's assertion of regular maintenance was not supported by evidence demonstrating actual effectiveness in meeting NEQS.
+The Tribunal finds that the Complainant has successfully discharged its burden of proof, presenting compelling and corroborated evidence of environmental pollution and non-compliance with statutory requirements. The Respondent's defenses, while acknowledging some efforts, largely failed to counter the concrete evidence of ongoing violations. The Tribunal recognizes the Respondent's economic contribution; however, this cannot be a justification for continuous environmental degradation and non-compliance with national laws designed to protect public health and the environment. The expert testimony regarding potential health impacts underscores the gravity of the violations.
+**ORDER AND PENALTY:**
+In light of the foregoing findings, and exercising the powers vested in this Tribunal under Sections 16 and 17 of the Pakistan Environmental Protection Act, 1997, it is hereby ordered as follows:
+1.  **Declaration of Guilt**: M/s Ghani Glass Limited, the Respondent, is found guilty of contravening the provisions of Section 11 and Section 12 of the Pakistan Environmental Protection Act, 1997, and the National Environmental Quality Standards (NEQS).
+2.  **Monetary Penalty**: A consolidated penalty of **PKR 1,000,000/- (Rupees One Million Only)** is hereby imposed on
+
+**IV. TRIBUNAL'S ANALYSIS**
+
+This Tribunal observes that the Respondent has been served with an Environmental Protection Order (EPO) under Section 16 of PEPA, 1997 and was granted adequate time to achieve compliance. The persistence of NEQS violations after expiry of the EPO compliance period demonstrates willful non-compliance and disentitles the Respondent from any lenient treatment. The defense of temporary malfunction is rejected as an afterthought unsupported by contemporaneous records.
+
+**V. LEGAL FRAMEWORK**
+
+Section 11 of PEPA, 1997 imposes strict liability upon any person who discharges or emits, or allows the discharge or emission of, any effluent, waste, air pollutant or noise in excess of NEQS. The Respondent's industrial activity falls squarely within this prohibition. Proof of intent is not required; the act of pollution itself attracts penal consequences under Section 17(1) of PEPA, 1997.
+
+---
+
+**FINAL ORDER**
+
+Having found the Respondent, the Respondent, guilty of violating the National Environmental Quality Standards under Section 11 of the Pakistan Environmental Protection Act, 1997, this Tribunal hereby passes the following order:
+
+**1. Declaration of Guilt**
+
+The Respondent, the Respondent, is hereby declared guilty of violating NEQS standards under Section 11 of PEPA, 1997, read with applicable NEQS Regulations (SRO 742(I)/2000).
+
+**2. Penalty**
+
+The Respondent is directed to pay a penalty of **PKR 1,800,000/- (Rupees One Million Eight Hundred Thousand only)** under Section 17(1) of PEPA, 1997, payable to the Punjab Environmental Protection Agency within thirty (30) days of this order.
+
+**3. Environmental Charges (PSDF)**
+
+The Respondent shall additionally deposit **PKR 360,000/-** into the Punjab Environmental Protection (Provincial Sustainable Development Fund) under the Punjab Environmental Protection (Provincial Sustainable Development Fund) Rules, 2010.
+
+**4. Compliance Directive**
+
+The Respondent is directed to achieve full compliance with NEQS standards within sixty (60) days of this order and to submit documentary evidence of compliance to the Punjab EPA.
+
+**5. Monthly Compliance Reports**
+
+The Respondent shall submit monthly compliance reports to the Punjab EPA for a period of twelve (12) months from the date of this order.
+
+**6. Daily Fine for Non-Compliance**
+
+In the event of failure to comply within the stipulated period, the Respondent shall be liable to pay a daily fine of **PKR 100,000/-** per day of continued non-compliance under Section 17(1) of PEPA, 1997.
+
+**7. EPA Monitoring**
+
+The Punjab EPA is directed to conduct monthly inspection of the Respondent's facility for one (1) year and report findings to this Tribunal.
+
+**8. Costs**
+
+The Respondent shall bear costs assessed at **PKR 50,000/-**, payable to the Punjab EPA.
+
+**9. Right of Appeal**
+
+Any party aggrieved by this order may prefer an appeal before the Lahore High Court under Section 22 of PEPA, 1997 within thirty (30) days of receipt of this order.
+
+Announced in open Tribunal this **24 January, 2023**.
+
+**(Muhammad Irfan)**
+**Presiding Officer**
+**Punjab Environmental Tribunal, Lahore**
