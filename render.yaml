@@ -1,4 +1,7 @@
 # Render Blueprint — one-click deploy with persistent Postgres.
+# Lives at repo root (Render only looks here). The actual Django project sits
+# in the climate-law-portal/ subfolder, so each service uses rootDir to switch
+# into it before running build/start commands.
 # Reference: https://render.com/docs/blueprint-spec
 databases:
   - name: climate-law-portal-db
@@ -14,6 +17,7 @@ services:
     plan: free
     region: oregon
     branch: main
+    rootDir: climate-law-portal
     buildCommand: "./build.sh"
     startCommand: "gunicorn climate_law_portal.wsgi:application --config gunicorn.conf.py"
     healthCheckPath: /health/
@@ -34,6 +38,7 @@ services:
         fromDatabase:
           name: climate-law-portal-db
           property: connectionString
-      # Auto-ingest the bundled .txt corpus once on every deploy (idempotent).
+      # Corpus lives one level up from the rootDir (at the repo root, alongside
+      # this render.yaml). build.sh ingests from this path on every deploy.
       - key: CASES_INGEST_PATH
-        value: ./all_text_cases
+        value: ../all_text_cases
