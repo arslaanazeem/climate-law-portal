@@ -16,6 +16,12 @@ python manage.py collectstatic --noinput
 echo "==> Applying database migrations"
 python manage.py migrate --noinput
 
+# Create the admin user from env vars (idempotent — no-op if it exists or
+# if the env vars aren't set). Required because Render's free tier has no
+# shell, so `python manage.py createsuperuser` can't be run interactively.
+echo "==> Ensuring admin superuser"
+python manage.py ensure_superuser
+
 # If a CASES_INGEST_PATH env var points to a folder of .txt cases, ingest them.
 if [[ -n "${CASES_INGEST_PATH:-}" && -d "${CASES_INGEST_PATH}" ]]; then
   echo "==> Ingesting cases from ${CASES_INGEST_PATH}"

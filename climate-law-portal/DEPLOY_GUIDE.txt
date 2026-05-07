@@ -208,15 +208,22 @@ PART 5 — VERIFY EVERYTHING WORKS
          * Health probe:      https://YOUR-URL/health/   → "ok"
 
   5.2  (Optional) Create an admin user so you can edit cases via /admin/.
-       In the Render dashboard:
 
-         Web service "climate-law-portal" → "Shell" tab → run:
-
+       Render's free tier has NO shell access, so the usual
            python manage.py createsuperuser
+       command can't be typed there. Instead, this project ships with a
+       custom command that creates the admin from environment variables
+       during the build. Full step-by-step walkthrough is in:
 
-       Pick a username and a strong password, then visit:
+           climate-law-portal\ADMIN_AND_BACKUP_GUIDE.txt   (PART A)
 
-           https://YOUR-URL/admin/
+       Short version:
+         Render dashboard → web service → Environment → add 3 vars:
+             DJANGO_SUPERUSER_USERNAME = <your username>
+             DJANGO_SUPERUSER_EMAIL    = <your email>
+             DJANGO_SUPERUSER_PASSWORD = <a strong password>
+         Save → wait for the auto-redeploy → log in at:
+             https://YOUR-URL/admin/
 
 
 ================================================================================
@@ -252,17 +259,18 @@ PART 7 — IMPORTANT FREE-TIER CAVEATS  (read these)
 
   7.2  THE FREE POSTGRES DATABASE EXPIRES AFTER 90 DAYS
 
-       Render's free tier deletes the DB instance after 90 days. Before that:
+       Render's free tier deletes the DB instance after 90 days. The full
+       backup/restore walkthrough is in:
 
-         Option A — keep using free:
-           1. Take a backup before expiry:
-                Render dashboard → Database → "Connect" → copy psql URL
-                pg_dump <url> > backup.sql
-           2. Create a new free DB on Render.
-           3. Update DATABASE_URL on the web service to point to the new DB.
-           4. Re-ingest:  python manage.py ingest_cases  (in Render Shell).
+           climate-law-portal\ADMIN_AND_BACKUP_GUIDE.txt   (PART B)
 
-         Option B — upgrade to $7/month "Starter" Postgres (no expiry).
+       Short version: install Postgres client tools, copy the External
+       Database URL from the Render dashboard, and run pg_dump weekly to
+       a folder on your laptop. Before day 90, create a new free DB,
+       pg_restore the dump into it, and update DATABASE_URL on the web
+       service to point at the new DB.
+
+       Alternatively, upgrade to $7/month "Starter" Postgres (no expiry).
 
   7.3  ENVIRONMENT VARIABLES YOU CAN TWEAK IN THE RENDER DASHBOARD
 

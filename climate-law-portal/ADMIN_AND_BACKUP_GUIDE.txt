@@ -1,0 +1,397 @@
+================================================================================
+  CLIMATE LAW INTELLIGENCE PORTAL — PAKISTAN
+  Admin user creation + database backup guide  (Render free tier)
+================================================================================
+
+This guide covers two things you'll need after the site is live on Render:
+
+   PART A — create your /admin/ login (free tier has NO shell, so you can't
+            run `createsuperuser` the normal way)
+   PART B — back up the Postgres database to a file on your laptop, and
+            restore it later (e.g. before the 90-day free DB expiry)
+
+You only need to do PART A once. PART B is something you'll repeat every
+month or two — and definitely before day 85 of the free Postgres clock.
+
+
+================================================================================
+PART A — CREATE THE ADMIN USER (no shell needed)
+================================================================================
+
+Render's free tier removed shell access, so the textbook command —
+`python manage.py createsuperuser` typed into a Render shell — does not
+work. Instead, this project uses a custom Django command called
+`ensure_superuser` that runs during every deploy and reads the admin's
+credentials from environment variables. If the admin user already exists,
+it does nothing. If it doesn't, it creates one.
+
+You set three env vars in the Render dashboard, trigger one redeploy, and
+you're done.
+
+
+  A.1  PICK A USERNAME AND PASSWORD
+
+       Decide what you want for /admin/ access. Recommended:
+         * username:  pick something memorable but NOT "admin" (bots probe
+                      "admin"). Something like  arslaan_admin  works.
+         * password:  16+ characters, mix of letters/digits/symbols.
+                      A password manager (Bitwarden, 1Password, Chrome's
+                      built-in one) is the safest place to store it.
+         * email:     your real email — used by Django for password-reset
+                      flows if you ever set those up.
+
+       Write these down somewhere safe BEFORE step A.2 — you'll lose access
+       if you forget them.
+
+
+  A.2  ADD THE ENV VARS IN RENDER
+
+       a) Open  https://dashboard.render.com
+       b) Click the web service named  climate-law-portal
+       c) Left sidebar →  Environment
+       d) Scroll to  Environment Variables  → click  Add Environment Variable
+          three times so you have three new rows. Fill them in:
+
+            Key                          Value
+            ---------------------------  ---------------------------------
+            DJANGO_SUPERUSER_USERNAME    <the username from step A.1>
+            DJANGO_SUPERUSER_EMAIL       <your real email>
+            DJANGO_SUPERUSER_PASSWORD    <the password from step A.1>
+
+       e) Click  Save Changes  at the top right.
+
+
+  A.3  TRIGGER A REDEPLOY (so the new env vars take effect)
+
+       Saving env vars usually triggers an auto-redeploy. If it doesn't:
+
+         Top right of the service page →  Manual Deploy  →
+         Deploy latest commit
+
+       Watch the  Logs  tab. About 30–60 s in, you should see this line:
+
+         ==> Ensuring admin superuser
+         ensure_superuser: created superuser '<your-username>'.
+
+       If you see this instead:
+         ensure_superuser: DJANGO_SUPERUSER_USERNAME and
+         DJANGO_SUPERUSER_PASSWORD env vars are not both set — skipping...
+
+       → one of the env vars is missing. Go back to step A.2 and confirm
+       all three rows are present and saved.
+
+       If you see:
+         ensure_superuser: user '<x>' already exists — nothing to do.
+
+       → that's fine; the user was created on a prior deploy. Skip to A.4.
+
+
+  A.4  TEST THE LOGIN
+
+       Open  https://<your-app>.onrender.com/admin/
+
+       (e.g. https://climate-law-portal.onrender.com/admin/)
+
+       Log in with the username and password from step A.1. You should
+       land on the Django admin index showing  Cases  and  Users.
+
+       Done — you can edit any case via the admin now.
+
+
+  A.5  IF YOU FORGET THE PASSWORD LATER
+
+       Don't panic. Three options:
+
+         (i)  Set DJANGO_SUPERUSER_PASSWORD to a new value in Render env
+              vars and redeploy. BUT: ensure_superuser only creates users,
+              it does NOT update existing ones. So this won't help unless
+              you also delete the existing user (next option).
+
+         (ii) Use the database backup from PART B to find your username,
+              then connect to Postgres and reset the password manually:
+
+                 set PGPASSWORD=...    (from Render → Database → Connect)
+                 psql <external-db-url>
+                 \c climate_law_portal
+                 -- generate a new bcrypt hash on your local machine first:
+                 python -c "from django.contrib.auth.hashers import make_password; print(make_password('NEW_PASSWORD'))"
+
+                 (copy the output starting with  pbkdf2_sha256$...  )
+                 UPDATE auth_user
+                    SET password = 'pbkdf2_sha256$...'
+                    WHERE username = '<your-username>';
+                 \q
+
+         (iii) Delete the user row from auth_user, change
+               DJANGO_SUPERUSER_PASSWORD to the new password, and
+               redeploy — ensure_superuser will recreate the account.
+
+
+  A.6  (OPTIONAL) AFTER LOGIN, REMOVE THE PASSWORD ENV VAR
+
+       Once the admin account exists in the database, the env var is no
+       longer needed. You can delete  DJANGO_SUPERUSER_PASSWORD  from
+       Render's Environment tab to reduce its exposure surface (it shows
+       as masked in the dashboard, but anyone with dashboard access could
+       still reveal it). Leave the username and email — they're harmless
+       and useful as documentation.
+
+       Important: if you DO delete the password env var and later forget
+       your password, you'll need to use option A.5(ii) or A.5(iii) — you
+       can't simply re-add the env var because the user already exists.
+
+
+================================================================================
+PART B — BACK UP THE DATABASE (and restore it later)
+================================================================================
+
+Render's free Postgres deletes the database after 90 days. Before then —
+ideally every month — take a backup. The backup is a single .sql file you
+can store anywhere (Google Drive, OneDrive, Dropbox, GitHub gist for tiny
+DBs, a USB stick). You can restore from it into:
+
+   * a brand-new free Postgres on Render, or
+   * a paid Postgres instance, or
+   * your local laptop, or
+   * a different host entirely (Supabase, Neon, Railway, etc.)
+
+
+  B.1  ONE-TIME SETUP — INSTALL POSTGRES CLIENT TOOLS ON WINDOWS
+
+       You need  pg_dump.exe  and  psql.exe  on your laptop. The easiest
+       way is to install the official Postgres installer (you only need
+       the client tools, not the server):
+
+       a) Open  https://www.postgresql.org/download/windows/
+       b) Click "Download the installer" → run it.
+       c) When asked which components to install, you can UNCHECK
+          "PostgreSQL Server" if you only want the client tools. Keep:
+             [x] Command Line Tools
+             [x] pgAdmin 4   (optional — GUI for browsing DBs)
+       d) Default install path is  C:\Program Files\PostgreSQL\16\
+       e) After install, open a NEW PowerShell window and check:
+
+             pg_dump --version
+             psql --version
+
+          If you get "command not found", add this to your PATH:
+             C:\Program Files\PostgreSQL\16\bin
+          (System Properties → Environment Variables → Path → New)
+          Reopen PowerShell — it should work now.
+
+
+  B.2  GET THE EXTERNAL DATABASE URL FROM RENDER
+
+       a) Open  https://dashboard.render.com
+       b) Click the database  climate-law-portal-db
+       c) Look for  Connections  section. You'll see:
+
+             Internal Database URL    (only works inside Render — ignore)
+             External Database URL    (works from your laptop — copy this)
+             PSQL Command             (the same URL pre-formatted for psql)
+
+       d) Copy the External Database URL. It looks like:
+
+             postgres://climate_law_portal:LONGPASSWORD@dpg-xxxx-a.oregon-postgres.render.com/climate_law_portal
+
+          Treat this URL like a password — anyone with it can read or
+          delete your data. Don't paste it into chat, GitHub, or screenshots.
+
+
+  B.3  TAKE A BACKUP
+
+       a) Pick a folder on your laptop for backups, e.g.:
+
+             D:\EnvTribunalSimulator\backups\
+
+          Create it if it doesn't exist (right-click → New → Folder).
+
+       b) Open PowerShell and run (one line, REPLACE the URL):
+
+             $url = "postgres://climate_law_portal:LONGPASSWORD@dpg-xxxx-a.oregon-postgres.render.com/climate_law_portal"
+             $stamp = Get-Date -Format "yyyy-MM-dd_HHmm"
+             pg_dump $url --no-owner --no-privileges --format=custom -f "D:\EnvTribunalSimulator\backups\climate-law-portal_$stamp.dump"
+
+          This produces a file like:
+             climate-law-portal_2026-05-07_1430.dump
+
+          (.dump is the custom binary format — smaller than .sql and
+          faster to restore. About 30–60 MB for the full 5,000-case DB.)
+
+       c) Verify the backup file exists and has size > 0:
+
+             Get-Item "D:\EnvTribunalSimulator\backups\climate-law-portal_*.dump" | Select-Object Name, Length, LastWriteTime
+
+          You should see one row with a non-zero Length.
+
+
+  B.4  KEEP MULTIPLE BACKUPS
+
+       Don't overwrite — name each one with a date (the $stamp variable
+       above does this automatically). A typical retention pattern:
+
+         * Daily backups for the last 7 days
+         * Weekly backups for the last month
+         * Monthly backups indefinitely
+
+       To delete old daily backups (older than 7 days):
+
+             Get-ChildItem "D:\EnvTribunalSimulator\backups\*.dump" |
+                 Where-Object { $_.LastWriteTime -lt (Get-Date).AddDays(-7) } |
+                 Remove-Item
+
+       Run that monthly to keep the folder tidy.
+
+
+  B.5  (OPTIONAL) AUTOMATE WITH A SCHEDULED TASK
+
+       If you want backups to run automatically, save the commands from
+       B.3 into a PowerShell script — D:\EnvTribunalSimulator\backups\backup.ps1
+       — then create a Windows Scheduled Task:
+
+         a) Open Task Scheduler  →  Create Basic Task
+         b) Name: "Climate Law Portal DB backup"
+         c) Trigger: Weekly, Sunday 02:00
+         d) Action: Start a program
+              Program:   powershell.exe
+              Arguments: -ExecutionPolicy Bypass -File "D:\EnvTribunalSimulator\backups\backup.ps1"
+         e) Finish.
+
+       Right-click the new task → "Run" once to confirm it works.
+
+
+  B.6  RESTORE A BACKUP — INTO A NEW RENDER POSTGRES
+
+       Use this when the 90-day free DB expires, or if you ever need to
+       revert to an earlier state. The flow:
+
+         (1) Create a fresh free Postgres on Render
+                Render dashboard → New → Postgres
+                Name: climate-law-portal-db    (same name OK)
+                Database / User: climate_law_portal / climate_law_portal
+                Plan: Free
+                Region: Oregon
+                Click "Create Database"
+
+         (2) Wait 30–60 s for it to provision. Then in the Connections
+             section, copy the new External Database URL.
+
+         (3) Restore the .dump file into the new database:
+
+                $newurl = "postgres://climate_law_portal:NEW_PASSWORD@dpg-yyyy-a.oregon-postgres.render.com/climate_law_portal"
+                pg_restore --no-owner --no-privileges --clean --if-exists -d $newurl "D:\EnvTribunalSimulator\backups\climate-law-portal_2026-05-07_1430.dump"
+
+             (REPLACE the path with your actual backup file. Restore takes
+             2–5 minutes for the full DB.)
+
+         (4) Update Render's web service to point at the new DB:
+                Render dashboard → web service → Environment
+                Find DATABASE_URL → click Edit → paste the new External URL
+                (the same one you used in step 3)
+                Save → service auto-redeploys.
+
+         (5) Verify:  https://your-app.onrender.com/  shows the cases
+             again, and  https://your-app.onrender.com/admin/  still
+             accepts your old admin login (because the auth tables were
+             included in the backup).
+
+         (6) Delete the old/expired Postgres instance from Render to
+             avoid confusion.
+
+
+  B.7  RESTORE A BACKUP — INTO A LOCAL POSTGRES (for testing)
+
+       If you want to inspect the production data on your laptop:
+
+         (1) Make sure you have a local Postgres server (not just the
+             client tools). The full installer from B.1 includes one,
+             or use Docker:
+                docker run -d --name pg -e POSTGRES_PASSWORD=local -p 5432:5432 postgres:16
+
+         (2) Create a local DB:
+                psql -U postgres -c "CREATE DATABASE climate_law_portal;"
+
+         (3) Restore:
+                pg_restore --no-owner --no-privileges -d "postgres://postgres:local@localhost:5432/climate_law_portal" "D:\EnvTribunalSimulator\backups\climate-law-portal_2026-05-07_1430.dump"
+
+         (4) Browse with pgAdmin 4 or psql.
+
+
+  B.8  EXPORT TO PLAIN .sql (HUMAN-READABLE) IF YOU PREFER
+
+       The .dump format is binary and only pg_restore reads it. For a
+       text-based dump you can grep, edit, or open in Notepad:
+
+             pg_dump $url --no-owner --no-privileges --format=plain -f "D:\EnvTribunalSimulator\backups\climate-law-portal_$stamp.sql"
+
+       Pros: human-readable, smaller text edits possible.
+       Cons: ~3–5x larger than .dump, slower to restore.
+
+       To restore from .sql:
+             psql $newurl -f "D:\EnvTribunalSimulator\backups\....sql"
+
+
+================================================================================
+PART C — TROUBLESHOOTING
+================================================================================
+
+  Symptom: ensure_superuser logs say "skipping" even though I set the env vars.
+    → Both DJANGO_SUPERUSER_USERNAME and DJANGO_SUPERUSER_PASSWORD must be
+      non-empty. Whitespace-only counts as empty. Re-check Render → Environment.
+      Save Changes triggers a redeploy.
+
+  Symptom: I get "FATAL: password authentication failed" from pg_dump.
+    → You're using the wrong URL. Make sure you copied the EXTERNAL URL,
+      not the internal one (which only works from inside Render's network).
+
+  Symptom: pg_dump errors with "server version mismatch" or
+           "aborting because of server version mismatch".
+    → Your local pg_dump is older than Render's Postgres. Install a newer
+      Postgres client. Render currently runs Postgres 16, so install
+      Postgres 16 client tools or newer (B.1).
+
+  Symptom: pg_restore says "errors ignored on restore: N".
+    → Usually harmless when N is small (e.g. 2-3). It means a few harmless
+      objects (extensions, default privileges) couldn't be replayed. The
+      data tables are intact. Verify by browsing /admin/ after the restore.
+
+  Symptom: Restore succeeded but my web app shows 0 cases.
+    → DATABASE_URL on the web service is still pointing at the OLD database.
+      See step B.6.(4) — update it to the new External URL and the service
+      auto-redeploys.
+
+
+================================================================================
+QUICK REFERENCE
+================================================================================
+
+  CREATE ADMIN (one-time, in Render dashboard):
+      Service → Environment → add 3 vars:
+          DJANGO_SUPERUSER_USERNAME=<you>
+          DJANGO_SUPERUSER_EMAIL=<you@example.com>
+          DJANGO_SUPERUSER_PASSWORD=<strong>
+      Save → wait for redeploy → log in at /admin/.
+
+  WEEKLY BACKUP (in PowerShell):
+      $url = "<external db url from Render>"
+      $stamp = Get-Date -Format "yyyy-MM-dd_HHmm"
+      pg_dump $url --no-owner --no-privileges --format=custom `
+          -f "D:\EnvTribunalSimulator\backups\climate-law-portal_$stamp.dump"
+
+  RESTORE INTO NEW DB:
+      $newurl = "<new external db url>"
+      pg_restore --no-owner --no-privileges --clean --if-exists `
+          -d $newurl "D:\EnvTribunalSimulator\backups\<file>.dump"
+      Then update DATABASE_URL on the Render web service to the new URL.
+
+
+================================================================================
+WHERE TO GO NEXT
+================================================================================
+
+  - If you also need to deploy this site for the first time, see DEPLOY_GUIDE.txt.
+  - For Django/code-level docs, see docs/00-README.md and the numbered files.
+  - For day-to-day Render operations (logs, restarts, env vars), the dashboard
+    is self-explanatory — every service page has Logs, Events, Settings, and
+    Environment tabs at the top.
+================================================================================
