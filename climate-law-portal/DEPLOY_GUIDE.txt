@@ -117,7 +117,7 @@ PART 2 — PUSH YOUR LOCAL CODE TO GITHUB
 
   2.5  Connect to the GitHub repo from step 1.5 (REPLACE <your-username>):
 
-           git remote add origin https://github.com/<your-username>/climate-law-portal.git
+           git remote add origin https://github.com/arslaanazeem/climate-law-portal.git
 
   2.6  Push:
 
@@ -315,4 +315,117 @@ PART 8 — TROUBLESHOOTING
   Symptom: Render Postgres connection errors after 90 days.
     → Free DB expired. See section 7.2.
 
-  Symptom: `git add .` wo
+  Symptom: `git add .` won't finish — terminal floods with
+           "warning: LF will be replaced by CRLF" lines and looks frozen.
+    → It is NOT frozen. Each warning is one of the 5,000 case files; they
+      print fast but there are a lot. Just wait — it finishes in under a
+      minute. To silence permanently, make sure the .gitattributes file
+      from Appendix A exists at:
+          D:\EnvTribunalSimulator\Environment_law_portal\.gitattributes
+      Then run:
+          cd D:\EnvTribunalSimulator\Environment_law_portal
+          git rm --cached -r . 2> $null
+          git add --renormalize .
+          git add .
+      The renormalize tells Git to re-read line endings using the new rules.
+
+  Symptom: `git add .` aborts with
+           "fatal: LF would be replaced by CRLF in <file>".
+    → You have `core.safecrlf=true` set, which makes Git refuse instead of
+      warn. Fix it once with:
+          git config --global core.safecrlf false
+      Then retry `git add .`.
+
+
+================================================================================
+QUICK REFERENCE — COMMANDS YOU'LL ACTUALLY TYPE
+================================================================================
+
+  ONE-TIME SETUP (in PowerShell):
+
+      cd D:\EnvTribunalSimulator\Environment_law_portal
+      git init -b main
+      git add .
+      git commit -m "Initial commit"
+      git remote add origin https://github.com/<you>/climate-law-portal.git
+      git push -u origin main
+
+  EVERY UPDATE AFTER THAT:
+
+      cd D:\EnvTribunalSimulator\Environment_law_portal
+      git add .
+      git commit -m "describe change"
+      git push
+
+  USEFUL COMMANDS IN RENDER SHELL (after deploy):
+
+      python manage.py createsuperuser
+      python manage.py ingest_cases --path ./all_text_cases
+      python manage.py shell
+      python manage.py migrate
+
+
+================================================================================
+You're done. The link Render gave you is the permanent public URL — share it
+with anyone. Updates are automatic on every git push.
+
+If anything is unclear, re-read Part 7 (caveats) and Part 8 (troubleshooting).
+================================================================================
+
+
+================================================================================
+APPENDIX A — .gitattributes TEMPLATE (line-ending rules)
+================================================================================
+
+If the .gitattributes file at the repo root is missing or corrupted, recreate
+it. Open Notepad, paste the block below, and save as:
+
+    D:\EnvTribunalSimulator\Environment_law_portal\.gitattributes
+
+(In Notepad's "Save As" dialog, set "Save as type" to "All Files" so it
+doesn't add a hidden .txt extension.)
+
+--------------------------- BEGIN .gitattributes ----------------------------
+# Default: text files normalized to LF in the repo, native EOL on checkout.
+* text=auto eol=lf
+
+# Windows-only scripts must keep CRLF on disk to run reliably from Explorer.
+*.bat   text eol=crlf
+*.cmd   text eol=crlf
+*.ps1   text eol=crlf
+
+# Shell scripts always LF (they run on the Render/Linux build container).
+*.sh    text eol=lf
+
+# Source — explicit just to be safe.
+*.py    text eol=lf
+*.html  text eol=lf
+*.css   text eol=lf
+*.js    text eol=lf
+*.md    text eol=lf
+*.txt   text eol=lf
+*.yaml  text eol=lf
+*.yml   text eol=lf
+
+# Binary files — never touch line endings.
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.pdf   binary
+*.zip   binary
+*.gz    binary
+*.sqlite3 binary
+*.db    binary
+*.pyc   binary
+*.exe   binary
+---------------------------- END .gitattributes -----------------------------
+
+What this fixes:
+   * Without it, Git on Windows warns once per text file when you add 5,000
+     case files. The warnings scroll for 30+ seconds and look like a hang.
+   * With it, Git knows the canonical form (LF in the repo, CRLF on Windows
+     checkout, CRLF kept for .bat) and stays quiet.
+   * Linux/Render checkouts keep LF everywhere — no impact on production.
+================================================================================
